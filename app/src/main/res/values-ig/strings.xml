@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Securitly</string>
+    <string name="morning">Ụtụtụ ọma</string>
+    <string name="afternoon">Ehihie ọma</string>
+    <string name="evening">Mgbede ọma</string>
+    <string name="status">Securitly bụ:</string>
+    <string name="active">Na-arụ ọrụ</string>
+    <string name="not_active">Ọ naghị arụ ọrụ</string>
+    <string name="location_permission">Ekwesịrị ịgbanye ikike ebe</string>
+    <string name="location_must">Ị ga-anabata ikike ebe Securitly ịrụ ọrụ</string>
+    <string name="message">Ozi mberede:</string>
+    <string name="message_placeholder">Ndewo, a bụ Emma, \u200b\u200bbatrị m nwụrụ.</string>
+    <string name="change_message">Gbanwee ozi</string>
+    <string name="location_alert_title">Securitly kwesịrị ịma ebe ị nọ mgbe niile</string>
+    <string name="location_alert_message">Ịchọrọ ime ka ọnọdụ gị nwee ike?\nGaa na Ntọala -> Ngwa -> Securitly -> Nye ohere mgbe niile.\n\nMgbe ahụ malitegharịa Securitly</string>
+    <string name="yes">Ee</string>
+    <string name="no">Mba</string>
+    <string name="settings">Ntọala</string>
+    <string name="message_to">Ziga ozi na:</string>
+    <string name="add_contacts">Tinye kọntaktị</string>
+    <string name="no_contacts">Ị họrọbeghị kọntaktị gị</string>
+    <string name="send_location">Ziga ebe ikpeazụ m</string>
+    <string name="delivered">Ebutere SMS</string>
+    <string name="not_delivered">SMS akwụsịghị izipu</string>
+    <string name="securitly_settings">Ntọala Securitly</string>
+    <string name="ask_percentaje">Zipụ ozi mberede mgbe ọkwa batrị dị</string>
+    <string name="reset">Tọgharịa ndabara data</string>
+    <string name="warning">Ịdọ aka ná ntị</string>
+    <string name="sure_delete">"Ị ji naka na ịchọrọ ịtọgharịa data ndabara?"</string>
+    <string name="no_lower">Pasent batrị kacha nta bụ 2%</string>
+    <string name="no_upper">Pasent batrị kacha elu bụ 100%</string>
+    <string name="no_valid_data">Biko webata nọmba</string>
+    <string name="about">Ihe gbasara</string>
+    <string name="how_to">Otu esi eji Securitly</string>
+    <string name="name">Aha:</string>
+    <string name="phone">Nọmba ekwentị:</string>
+    <string name="name_hint">David Martínez</string>
+    <string name="done">Emechaala</string>
+    <string name="message_saved">echekwara ozi nke ọma</string>
+    <string name="cancel">Kagbuo</string>
+    <string name="delete_contact">Ịchọrọ ihichapụ kọntaktị a na listi kọntaktị gị?</string>
+    <string name="delete">Hichapụ kọntaktị</string>
+    <string name="fill_name">Biko dejupụta mpaghara "Aha".</string>
+    <string name="fill_phone">Biko dejupụta mpaghara "nọmba ekwentị".</string>
+    <string name="instructions_1">1. Securitly kwesịrị ịma ebe gị mgbe niile. Iji mee nke ahụ, gaa na ntọala ngwaọrụ gị -> ngwa -> Securitly -> Ikikere wee gbanwee ikike ọnọdụ ka "Kwe ka oge niile".</string>
+    <string name="instructions_2">2.Adịghị ịmanye nso Securitly. Ma ọ bụghị ya, agaghị eziga ozi mberede gị na kọntaktị gị.</string>
+    <string name="instructions_3">"3. Anyị anaghị akwado ka ịtọọ ọkwa batrị nke ị ga-eziga ozi mberede gị na 1 ma ọ bụ 2%, nihi na ngwaọrụ gị nwere ike gbanyụọ tupu izipu ozi ahụ."</string>
+    <string name="about_us">"Ụmụ akwụkwọ ise sitere na Technological Institute of Laguna, Mexico mere ngwa a. Ọrụ a malitere dị ka echiche nke anyị kpebiri ime ka ọ bụrụ eziokwu, yana onye ndụmọdụ anyị, engineer Gerardo, anyị mere ka o kwe omume. Na ngwa a, anyị na-atụ anya inye aka ntakịrị na ọnọdụ dị ugbu a nụwa."</string>
+    <string name="location_example">Ebe ikpeazụ ngwaọrụ m nọ bụ:\nlatitude:\n40,776570\nogologo: -73.969979\nCentral Park West Historic District\nNew York, 10024, EE. UU.</string>
+    <string name="permission_neccesary">Securitly enweghị ike ịrụ ọrụ n\ihi na enyeghị ikike "Zipu SMS".</string>
+    <string name="location_permission_neccesary">Securitly enweghị ike ịrụ ọrụ n\ihi na enyeghị ikike "Location Mgbe niile". Securitly kwesịrị ịma ọnọdụ gị ka o nwee ike izipu ọnọdụ ikpeazụ amaara gị na kọntaktị ahọpụtara</string>
+    <string name="last_location">Ebe ikpeazụ m nọ bụ:</string>
+    <string name="error_getting_location">Enwere mperi ịnweta ebe akpasara ngwaọrụ a</string>
+    <string name="dont_show">Egosiputala “ebe achọrọ” gbapụta mgbe Securitly malitere</string>
+
+</resources>

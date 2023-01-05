@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Securitly</string>
+    <string name="morning">Jó reggelt kívánok</string>
+    <string name="afternoon">Jó napot</string>
+    <string name="evening">Jó estét</string>
+    <string name="status">A Securitly a következő:</string>
+    <string name="active">Aktív</string>
+    <string name="not_active">Nem aktív</string>
+    <string name="location_permission">A helymeghatározási engedélyt engedélyezni kell</string>
+    <string name="location_must">A Securitly működéséhez el kell fogadnia a helymeghatározási engedélyt</string>
+    <string name="message">Vészhelyzeti üzenet:</string>
+    <string name="message_placeholder">Szia Emma vagyok, lemerült az akkumulátorom.</string>
+    <string name="change_message">Üzenet módosítása</string>
+    <string name="location_alert_title">A Securitly-nak mindig tudnia kell a tartózkodási helyét</string>
+    <string name="location_alert_message">Engedélyezni szeretné a tartózkodási helyét?\nLépjen a Beállítások -> Alkalmazások -> Securitly -> Mindig engedélyezze a helymeghatározást.\n\nEzután indítsa újra a Securitly-t</string>
+    <string name="yes">Igen</string>
+    <string name="no">Nem</string>
+    <string name="settings">Beállítások</string>
+    <string name="message_to">Üzenet küldése:</string>
+    <string name="add_contacts">Személyek hozzáadása</string>
+    <string name="no_contacts">Nem választotta ki a névjegyeit</string>
+    <string name="send_location">Küldje el az utolsó helyemet</string>
+    <string name="delivered">SMS kézbesítve</string>
+    <string name="not_delivered">Az SMS kézbesítése nem sikerült</string>
+    <string name="securitly_settings">Securitly beállítások</string>
+    <string name="ask_percentaje">Vészhelyzeti üzenet küldése, ha az akkumulátor töltöttségi szintje alacsony</string>
+    <string name="reset">Alapértelmezett adatok visszaállítása</string>
+    <string name="warning">Figyelem</string>
+    <string name="sure_delete">Biztosan visszaállítja az alapértelmezett adatokat?</string>
+    <string name="no_lower">Az akkumulátor minimális százaléka 2%</string>
+    <string name="no_upper">Az akkumulátor maximális százaléka 100%</string>
+    <string name="no_valid_data">Kérjük, adjon meg egy számot</string>
+    <string name="about">Ról ről</string>
+    <string name="how_to">A Securitly használatának módja</string>
+    <string name="name">Név:</string>
+    <string name="phone">Telefonszám:</string>
+    <string name="name_hint">David Martínez</string>
+    <string name="done">Kész</string>
+    <string name="message_saved">Az üzenet megfelelően mentve</string>
+    <string name="cancel">Megszünteti</string>
+    <string name="delete_contact">Törli ezt a névjegyet a névjegyzékből?</string>
+    <string name="delete">Névjegy törlése</string>
+    <string name="fill_name">Kérjük, töltse ki a "Név" mezőt</string>
+    <string name="fill_phone">Kérjük, töltse ki a „Telefonszám” mezőt</string>
+    <string name="instructions_1">1. A Securitlynak folyamatosan tudnia kell a tartózkodási helyét. Ehhez nyissa meg az eszköz beállításai -> Alkalmazások -> Securitly -> Engedélyek menüpontot, és módosítsa a helyengedélyt "Mindig engedélyezésre".</string>
+    <string name="instructions_2">2. Ne erőltesse a Securitly bezárását. Ellenkező esetben a vészhelyzeti üzenetet nem küldjük el az ismerőseinek.</string>
+    <string name="instructions_3">3. Nem javasoljuk, hogy 1 vagy 2%-ra állítsa az akkumulátor töltöttségi szintjét, amelynél elküldi a segélykérő üzenetet, mert előfordulhat, hogy a készülék az üzenet elküldése előtt kikapcsol.</string>
+    <string name="about_us">Ezt az alkalmazást a mexikói Laguna Technológiai Intézet 5 diákja készítette. Ez a projekt egy ötletből indult ki, amelynek valóra váltását tűztük ki célul, és mentorunkkal, Gerardo mérnökkel együtt lehetővé tettük. Reméljük, hogy ezzel az alkalmazással hozzájárulhatunk a világ jelenlegi helyzetéhez.</string>
+    <string name="location_example">A készülékem legutóbbi helye:\nszélességi kör:\n40.776570\nhosszúság: -73,969979\nCentral Park West történelmi negyed\nNew York, 10024, EE. U U.</string>
+    <string name="permission_neccesary">A Securitly nem működik, mert nincs megadva az „SMS küldése” engedély</string>
+    <string name="location_permission_neccesary">A Securitly nem működik, mert nincs megadva a „Mindig helymeghatározás” engedély. A Securitly-nak tudnia kell az Ön tartózkodási helyét, hogy el tudja küldeni a legutóbbi ismert tartózkodási helyét a kiválasztott névjegyeknek</string>
+    <string name="last_location">Legutóbbi helyem:</string>
+    <string name="error_getting_location">Hiba történt az eszköz elemzett helyének lekérésekor</string>
+    <string name="dont_show">Ne jelenítse meg a „Hely szükséges” előugró ablakot, amikor a Securitly elindul</string>
+
+</resources>

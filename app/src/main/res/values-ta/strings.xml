@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Securitly</string>
+    <string name="morning">காலை வணக்கம்</string>
+    <string name="afternoon">மதிய வணக்கம்</string>
+    <string name="evening">மாலை வணக்கம்</string>
+    <string name="status">Securitly என்பது:</string>
+    <string name="active">செயலில்</string>
+    <string name="not_active">பயனில் இல்லை</string>
+    <string name="location_permission">இருப்பிட அனுமதியை இயக்க வேண்டும்</string>
+    <string name="location_must">Securitly வேலை செய்ய இருப்பிட அனுமதியை நீங்கள் ஏற்க வேண்டும்</string>
+    <string name="message">அவசரச் செய்தி:</string>
+    <string name="message_placeholder">வணக்கம், நான் எம்மா, எனது பேட்டரி இறந்துவிட்டது.</string>
+    <string name="change_message">செய்தியை மாற்றவும்</string>
+    <string name="location_alert_title">Securitly உங்கள் இருப்பிடத்தை எப்போதும் தெரிந்து வைத்திருக்க வேண்டும்</string>
+    <string name="location_alert_message">உங்கள் இருப்பிடத்தை இயக்க விரும்புகிறீர்களா?\nஅமைப்புகள் -> ஆப்ஸ் -> Securitly -> எப்போதும் இருப்பிடத்தை அனுமதி என்பதற்குச் செல்லவும்.\n\nபின்னர் Securitly ஐ மறுதொடக்கம் செய்யுங்கள்</string>
+    <string name="yes">ஆம்</string>
+    <string name="no">இல்லை</string>
+    <string name="settings">அமைப்புகள்</string>
+    <string name="message_to">செய்தியை அனுப்பவும்:</string>
+    <string name="add_contacts">தொடர்புகளைச் சேர்க்கவும்</string>
+    <string name="no_contacts">உங்கள் தொடர்புகளை நீங்கள் தேர்ந்தெடுக்கவில்லை</string>
+    <string name="send_location">எனது கடைசி இடத்தை அனுப்பு</string>
+    <string name="delivered">எஸ்எம்எஸ் வழங்கப்பட்டது</string>
+    <string name="not_delivered">எஸ்எம்எஸ் வழங்குவதில் தோல்வி</string>
+    <string name="securitly_settings">Securitly அமைப்புகள்</string>
+    <string name="ask_percentaje">பேட்டரி நிலை இருக்கும்போது அவசரச் செய்தியை அனுப்பவும்</string>
+    <string name="reset">இயல்புநிலை தரவை மீட்டமைக்கவும்</string>
+    <string name="warning">எச்சரிக்கை</string>
+    <string name="sure_delete">இயல்புநிலை தரவை நிச்சயமாக மீட்டமைக்க விரும்புகிறீர்களா?</string>
+    <string name="no_lower">குறைந்தபட்ச பேட்டரி சதவீதம் 2%</string>
+    <string name="no_upper">அதிகபட்ச பேட்டரி சதவீதம் 100%</string>
+    <string name="no_valid_data">ஒரு எண்ணை அறிமுகப்படுத்தவும்</string>
+    <string name="about">பற்றி</string>
+    <string name="how_to">Securitly ஐ எவ்வாறு பயன்படுத்துவது</string>
+    <string name="name">பெயர்:</string>
+    <string name="phone">தொலைபேசி எண்:</string>
+    <string name="name_hint">டேவிட் மார்டினெஸ்</string>
+    <string name="done">முடிந்தது</string>
+    <string name="message_saved">செய்தி சரியாக சேமிக்கப்பட்டது</string>
+    <string name="cancel">ரத்து செய்</string>
+    <string name="delete_contact">உங்கள் தொடர்புகள் பட்டியலில் இருந்து இந்த தொடர்பை நீக்க விரும்புகிறீர்களா?</string>
+    <string name="delete">தொடர்பை நீக்கு</string>
+    <string name="fill_name">தயவுசெய்து "பெயர்" புலத்தை நிரப்பவும்</string>
+    <string name="fill_phone">"தொலைபேசி எண்" புலத்தை நிரப்பவும்</string>
+    <string name="instructions_1">1. Securitly உங்கள் இருப்பிடத்தை எப்போதும் தெரிந்து வைத்திருக்க வேண்டும். அதைச் செய்ய, உங்கள் சாதன அமைப்புகள் -> பயன்பாடுகள் -> Securitly -> அனுமதிகள் என்பதற்குச் சென்று இருப்பிட அனுமதியை "எல்லா நேரத்திலும் அனுமதி" என மாற்றவும்.</string>
+    <string name="instructions_2">2.Securitly ஐ மூட கட்டாயப்படுத்த வேண்டாம். இல்லையெனில், உங்கள் தொடர்புகளுக்கு உங்கள் அவசரச் செய்தி அனுப்பப்படாது.</string>
+    <string name="instructions_3">3. உங்கள் அவசரச் செய்தியை 1 அல்லது 2%க்கு அனுப்பும் பேட்டரி அளவை அமைக்க நாங்கள் பரிந்துரைக்கவில்லை, ஏனெனில் செய்தியை அனுப்பும் முன் உங்கள் சாதனம் ஆஃப் ஆகலாம்.</string>
+    <string name="about_us">இந்த பயன்பாட்டை மெக்சிகோவின் லாகுனாவின் தொழில்நுட்ப நிறுவனத்தைச் சேர்ந்த 5 மாணவர்கள் உருவாக்கியுள்ளனர். இந்த திட்டம் ஒரு யதார்த்தத்தை உருவாக்குவதற்கான ஒரு யோசனையாகத் தொடங்கியது, மேலும் எங்கள் வழிகாட்டியான பொறியாளர் ஜெரார்டோவுடன் சேர்ந்து நாங்கள் அதை சாத்தியமாக்கினோம். இந்த பயன்பாட்டின் மூலம் உலகின் தற்போதைய சூழ்நிலையில் சிறிது பங்களிப்போம் என்று நம்புகிறோம்.</string>
+    <string name="location_example">எனது சாதனத்தின் கடைசி இடம்:\nஅட்சரேகை:\n40.776570\nதீர்க்கரேகை: -73.969979\nமத்திய பூங்கா மேற்கு வரலாற்று மாவட்டம்\nநியூயார்க், 10024, EE. UU.</string>
+    <string name="permission_neccesary">"Send SMS" அனுமதி வழங்கப்படாததால் Securitly வேலை செய்ய முடியாது</string>
+    <string name="location_permission_neccesary">"எப்போதும் இருப்பிடம்" அனுமதி வழங்கப்படாததால் Securitly வேலை செய்ய முடியாது. Securitly உங்கள் இருப்பிடத்தை அறிந்து கொள்ள வேண்டும், அதனால் நீங்கள் தேர்ந்தெடுத்த தொடர்புகளுக்கு நீங்கள் கடைசியாகத் தெரிந்த இடத்தை அனுப்ப முடியும்</string>
+    <string name="last_location">எனது கடைசி இடம்:</string>
+    <string name="error_getting_location">இந்தச் சாதனத்தின் பாகுபடுத்தப்பட்ட இருப்பிடத்தைப் பெறுவதில் பிழை</string>
+    <string name="dont_show">Securitly தொடங்கும் போது "தேவையான இடம்" பாப்-அப்பைக் காட்ட வேண்டாம்</string>
+
+</resources>

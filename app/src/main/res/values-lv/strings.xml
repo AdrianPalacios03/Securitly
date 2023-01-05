@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Securitly</string>
+    <string name="morning">Labrīt</string>
+    <string name="afternoon">Labdien</string>
+    <string name="evening">Labvakar</string>
+    <string name="status">Securitly ir:</string>
+    <string name="active">Aktīvs</string>
+    <string name="not_active">Neaktīvs</string>
+    <string name="location_permission">Atrašanās vietas atļaujai ir jābūt iespējotai</string>
+    <string name="location_must">Lai Securitly darbotos, jums ir jāpieņem atrašanās vietas atļauja</string>
+    <string name="message">Ārkārtas ziņojums:</string>
+    <string name="message_placeholder">Sveiki, es esmu Emma, \u200b\u200bmans akumulators ir izlādējies.</string>
+    <string name="change_message">Mainīt ziņojumu</string>
+    <string name="location_alert_title">Securitly visu laiku ir jāzina jūsu atrašanās vieta</string>
+    <string name="location_alert_message">Vai vēlaties iespējot savu atrašanās vietu?\nDodieties uz Iestatījumi -> Lietotnes -> Securitly -> Vienmēr atļaut atrašanās vietu.\n\nPēc tam restartējiet Securitly</string>
+    <string name="yes">Jā</string>
+    <string name="no">Nē</string>
+    <string name="settings">Iestatījumi</string>
+    <string name="message_to">Sūtīt ziņu uz:</string>
+    <string name="add_contacts">Pievienot kontaktpersonas</string>
+    <string name="no_contacts">Jūs neesat atlasījis savas kontaktpersonas</string>
+    <string name="send_location">Nosūtīt manu pēdējo atrašanās vietu</string>
+    <string name="delivered">SMS piegādāta</string>
+    <string name="not_delivered">SMS neizdevās piegādāt</string>
+    <string name="securitly_settings">Securitly iestatījumi</string>
+    <string name="ask_percentaje">Nosūtiet ārkārtas ziņojumu, kad akumulatora līmenis ir zems</string>
+    <string name="reset">Atiestatīt noklusējuma datus</string>
+    <string name="warning">Brīdinājums</string>
+    <string name="sure_delete">Vai tiešām vēlaties atiestatīt noklusējuma datus?</string>
+    <string name="no_lower">Minimālais akumulatora uzlādes līmenis ir 2%</string>
+    <string name="no_upper">Maksimālais akumulatora uzlādes līmenis ir 100%</string>
+    <string name="no_valid_data">Lūdzu, ievadiet numuru</string>
+    <string name="about">Par</string>
+    <string name="how_to">Kā lietot Securitly</string>
+    <string name="name">Vārds:</string>
+    <string name="phone">Telefona numurs:</string>
+    <string name="name_hint">Deivids Martiness</string>
+    <string name="done">Gatavs</string>
+    <string name="message_saved">Ziņa saglabāta pareizi</string>
+    <string name="cancel">Atcelt</string>
+    <string name="delete_contact">Vai vēlaties dzēst šo kontaktpersonu no sava kontaktpersonu saraksta?</string>
+    <string name="delete">Dzēst kontaktpersonu</string>
+    <string name="fill_name">Lūdzu, aizpildiet lauku "Vārds".</string>
+    <string name="fill_phone">Lūdzu, aizpildiet lauku "Tālruņa numurs".</string>
+    <string name="instructions_1">1. Securitly visu laiku ir jāzina jūsu atrašanās vieta. Lai to izdarītu, atveriet ierīces iestatījumus -> lietotnes -> Securitly -> Atļaujas un mainiet atrašanās vietas atļauju uz "Atļaut visu laiku".</string>
+    <string name="instructions_2">2. Nepiespiediet Securitly aizvēršanu. Pretējā gadījumā jūsu ārkārtas ziņojums netiks nosūtīts jūsu kontaktpersonām.</string>
+    <string name="instructions_3">3. Mēs neiesakām iestatīt akumulatora uzlādes līmeni, pie kura sūtīsit avārijas ziņojumu, uz 1 vai 2%, jo ierīce var izslēgties pirms ziņojuma nosūtīšanas.</string>
+    <string name="about_us">Šo lietotni izveidoja 5 studenti no Lagunas Tehnoloģiskā institūta, Meksika. Šis projekts sākās kā ideja, kuru mēs nolēmām īstenot, un kopā ar mūsu mentoru, inženieri Džerardo, mēs to padarījām iespējamu. Ar šo lietotni mēs ceram sniegt nelielu ieguldījumu pašreizējā situācijā pasaulē.</string>
+    <string name="location_example">Manas ierīces pēdējā atrašanās vieta bija:\nplatums:\n40.776570\ngarums: -73,969979\nCentrālparka Rietumu vēsturiskais rajons\nŅujorka, 10024, EE. UU.</string>
+    <string name="permission_neccesary">Securitly nevar darboties, jo nav piešķirta atļauja "Sūtīt SMS".</string>
+    <string name="location_permission_neccesary">Securitly nevar darboties, jo nav piešķirta atļauja “Vienmēr atrašanās vieta”. Securitly ir jāzina jūsu atrašanās vieta, lai tā varētu nosūtīt jūsu pēdējo zināmo atrašanās vietu jūsu atlasītajām kontaktpersonām</string>
+    <string name="last_location">Mana pēdējā atrašanās vieta bija:</string>
+    <string name="error_getting_location">Parsējot šīs ierīces atrašanās vietu, radās kļūda</string>
+    <string name="dont_show">Nerādīt uznirstošo logu “Nepieciešama atrašanās vieta”, startējot Securitly</string>
+
+</resources>

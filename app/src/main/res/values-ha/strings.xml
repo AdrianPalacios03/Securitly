@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Securitly</string>
+    <string name="morning">Barka da Safiya</string>
+    <string name="afternoon">Barka da yamma</string>
+    <string name="evening">Barka da yamma</string>
+    <string name="status">Securitly shine:</string>
+    <string name="active">Mai aiki</string>
+    <string name="not_active">Ba Aiki ba</string>
+    <string name="location_permission">Dole ne a kunna izinin wuri</string>
+    <string name="location_must">Dole ne ku karɓi izinin wuri don Securitly yayi aiki</string>
+    <string name="message">Saƙon gaggawa:</string>
+    <string name="message_placeholder">Sannu, ni Emma, \u200b\u200bbaturi na ya mutu.</string>
+    <string name="change_message">Canza Saƙo</string>
+    <string name="location_alert_title">Securitly yana buƙatar sanin wurin ku koyaushe</string>
+    <string name="location_alert_message">Kuna son kunna wurin ku?\nJe zuwa Saituna -> Apps -> Securitly -> Bada izini koyaushe.\n\nSannan sake kunna Securitly</string>
+    <string name="yes">Ee</string>
+    <string name="no">"Aa"</string>
+    <string name="settings">Saituna</string>
+    <string name="message_to">Aika sako zuwa:</string>
+    <string name="add_contacts">Ƙara Lambobi</string>
+    <string name="no_contacts">Baka zaɓi lambobin sadarwarka ba</string>
+    <string name="send_location">Aika wurina na ƙarshe</string>
+    <string name="delivered">An Isar da SMS</string>
+    <string name="not_delivered">An kasa isar da SMS</string>
+    <string name="securitly_settings">Saitunan Securitly</string>
+    <string name="ask_percentaje">Aika saƙon gaggawa lokacin da matakin baturi ya kasance</string>
+    <string name="reset">Sake saita tsoffin bayanai</string>
+    <string name="warning">Gargadi</string>
+    <string name="sure_delete">Shin kun tabbata kuna son sake saita tsoffin bayanai?</string>
+    <string name="no_lower">Matsakaicin adadin baturi shine 2%</string>
+    <string name="no_upper">Matsakaicin adadin baturi shine 100%</string>
+    <string name="no_valid_data">Da fatan za a gabatar da lamba</string>
+    <string name="about">Game da</string>
+    <string name="how_to">Yadda ake amfani da Securitly</string>
+    <string name="name">Suna:</string>
+    <string name="phone">Lambar tarho:</string>
+    <string name="name_hint">David Martinez</string>
+    <string name="done">Anyi</string>
+    <string name="message_saved">Ajiye saƙo daidai</string>
+    <string name="cancel">Soke</string>
+    <string name="delete_contact">Kuna son share wannan lambar sadarwa daga lissafin lambobinku?</string>
+    <string name="delete">Share lamba</string>
+    <string name="fill_name">Da fatan za a cika filin "Sunan".</string>
+    <string name="fill_phone">Da fatan za a cika filin "Lambar waya".</string>
+    <string name="instructions_1">1. Securitly yana buƙatar sanin wurin ku koyaushe. Don yin hakan, je zuwa saitunan naurar ku -> apps -> Securitly -> Izini kuma canza izinin wurin zuwa "Ba da izinin kowane lokaci".</string>
+    <string name="instructions_2">2.Kada ku tilasta rufe Securitly. In ba haka ba, ba za a aika saƙon gaggawar ku zuwa lambobin sadarwarku ba.</string>
+    <string name="instructions_3">"3. Ba mu ba da shawarar ka saita matakin baturin da za ka aika saƙon gaggawa zuwa 1 ko 2% ba, saboda naurarka na iya kashe kafin aika saƙon."</string>
+    <string name="about_us">"Dalibai 5 ne suka yi wannan app daga Cibiyar Fasaha ta Laguna, Mexico. Wannan aikin ya fara ne a matsayin raayin da muka tsara don tabbatar da gaskiya, kuma tare da jagoranmu, injiniya Gerardo, mun ba da damar. Tare da wannan app muna fatan ba da gudummawa kaɗan tare da halin da ake ciki yanzu a duniya."</string>
+    <string name="location_example">"Wuri na ƙarshe na naurara shine:\nlatitude:\n40.776570\ntsawo: -73.969979\nGundumar Tarihi ta Tsakiya ta Yamma\nNew York, 10024, EE. UU."</string>
+    <string name="permission_neccesary">Securitly ba zai iya aiki ba saboda "Aika SMS" ba a ba da izini ba</string>
+    <string name="location_permission_neccesary">Securitly ba zai iya aiki saboda "Location Koyaushe" ba a ba da izini ba. Securitly yana buƙatar sanin wurin ku don ya iya aika sanannun wurin da kuka zaɓa zuwa lambobin da kuka zaɓa</string>
+    <string name="last_location">Wuri na na ƙarshe shine:</string>
+    <string name="error_getting_location">"An sami kuskure samun wurin da aka tantance naurar"</string>
+    <string name="dont_show">Kar a nuna "wurin da ake buƙata" ya tashi lokacin da Securitly ya fara</string>
+
+</resources>

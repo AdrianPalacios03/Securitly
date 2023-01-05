@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Securitly</string>
+    <string name="morning">Buna dimineata</string>
+    <string name="afternoon">Bună ziua</string>
+    <string name="evening">Bună seara</string>
+    <string name="status">Securitly este:</string>
+    <string name="active">Activ</string>
+    <string name="not_active">Inactiv</string>
+    <string name="location_permission">Permisiunea pentru locație trebuie să fie activată</string>
+    <string name="location_must">Trebuie să acceptați permisiunea de locație pentru ca Securitly să funcționeze</string>
+    <string name="message">Mesaj de urgență:</string>
+    <string name="message_placeholder">Bună, sunt Emma, \u200b\u200bmi s-a pierdut bateria.</string>
+    <string name="change_message">Schimbați mesajul</string>
+    <string name="location_alert_title">Securitly trebuie să vă cunoască locația tot timpul</string>
+    <string name="location_alert_message">Doriți să vă activați locația?\nAccesați Setări -> Aplicații -> Securitly -> Permiteți întotdeauna locația.\n\nApoi reporniți Securitly</string>
+    <string name="yes">da</string>
+    <string name="no">Nu</string>
+    <string name="settings">Setări</string>
+    <string name="message_to">Trimite mesaj la:</string>
+    <string name="add_contacts">Adauga contacte</string>
+    <string name="no_contacts">Nu v-ați selectat contactele</string>
+    <string name="send_location">Trimite ultima mea locație</string>
+    <string name="delivered">SMS livrat</string>
+    <string name="not_delivered">Livrarea SMS-urilor nu a reușit</string>
+    <string name="securitly_settings">Setări Securitly</string>
+    <string name="ask_percentaje">Trimiteți un mesaj de urgență când nivelul bateriei este</string>
+    <string name="reset">Resetați datele implicite</string>
+    <string name="warning">Avertizare</string>
+    <string name="sure_delete">Sigur doriți să resetați datele implicite?</string>
+    <string name="no_lower">Procentul minim de baterie este de 2%</string>
+    <string name="no_upper">Procentul maxim de baterie este de 100%</string>
+    <string name="no_valid_data">Vă rugăm să introduceți un număr</string>
+    <string name="about">Despre</string>
+    <string name="how_to">Cum se folosește Securitly</string>
+    <string name="name">Nume:</string>
+    <string name="phone">Numar de telefon:</string>
+    <string name="name_hint">David Martínez</string>
+    <string name="done">Terminat</string>
+    <string name="message_saved">Mesaj salvat corect</string>
+    <string name="cancel">Anulare</string>
+    <string name="delete_contact">Doriți să ștergeți acest contact din lista dvs. de contacte?</string>
+    <string name="delete">Ștergeți contactul</string>
+    <string name="fill_name">Vă rugăm să completați câmpul „Nume”.</string>
+    <string name="fill_phone">Vă rugăm să completați câmpul „Număr de telefon”.</string>
+    <string name="instructions_1">1. Securitly trebuie să vă cunoască locația tot timpul. Pentru a face asta, accesați setările dispozitivului -> aplicații -> Securitly -> Permisiuni și schimbați permisiunea de locație la „Permite tot timpul”.</string>
+    <string name="instructions_2">2. Nu forțați închiderea Securitly. În caz contrar, mesajul dvs. de urgență nu va fi trimis persoanelor de contact.</string>
+    <string name="instructions_3">3. Nu vă recomandăm să setați nivelul bateriei la care veți trimite mesajul de urgență la 1 sau 2%, deoarece dispozitivul dumneavoastră se poate opri înainte de a trimite mesajul.</string>
+    <string name="about_us">Această aplicație a fost realizată de 5 studenți de la Institutul Tehnologic din Laguna, Mexic. Acest proiect a început ca o idee pe care ne-am propus să o transformăm în realitate, iar împreună cu mentorul nostru, inginerul Gerardo, l-am făcut posibil. Cu această aplicație sperăm să contribuim puțin cu situația actuală din lume.</string>
+    <string name="location_example">Ultima locație a dispozitivului meu a fost:\nlatitudine:\n40,776570\nlongitudine: -73,969979\nCartierul istoric Central Park West\nNew York, 10024, EE. UU.</string>
+    <string name="permission_neccesary">Securitly nu poate funcționa deoarece permisiunea „Trimite SMS” nu este acordată</string>
+    <string name="location_permission_neccesary">Securitly nu poate funcționa deoarece permisiunea „Întotdeauna locația” nu este acordată. Securitly trebuie să vă cunoască locația, astfel încât să poată trimite ultima locație cunoscută persoanelor de contact selectate</string>
+    <string name="last_location">Ultima mea locație a fost:</string>
+    <string name="error_getting_location">A apărut o eroare la obținerea locației analizate a acestui dispozitiv</string>
+    <string name="dont_show">Nu afișa fereastra pop-up „locația necesară” când pornește Securitly</string>
+
+</resources>

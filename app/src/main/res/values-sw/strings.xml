@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Securitly</string>
+    <string name="morning">Habari za asubuhi</string>
+    <string name="afternoon">Mchana Mwema</string>
+    <string name="evening">Habari za jioni</string>
+    <string name="status">Securitly ni:</string>
+    <string name="active">Inayotumika</string>
+    <string name="not_active">Haitumiki</string>
+    <string name="location_permission">Ruhusa ya eneo lazima iwashwe</string>
+    <string name="location_must">Lazima ukubali ruhusa ya eneo ili Securitly ifanye kazi</string>
+    <string name="message">Ujumbe wa dharura:</string>
+    <string name="message_placeholder">Habari, mimi ni Emma, \u200b\u200bbetri yangu ilikufa.</string>
+    <string name="change_message">Badilisha Ujumbe</string>
+    <string name="location_alert_title">Securitly inahitaji kujua eneo lako kila wakati</string>
+    <string name="location_alert_message">Je, ungependa kuwezesha eneo lako?\nNenda kwa Mipangilio -> Programu -> Securitly -> Ruhusu eneo kila wakati.\n\nKisha anzisha upya Securitly</string>
+    <string name="yes">Ndiyo</string>
+    <string name="no">Hapana</string>
+    <string name="settings">Mipangilio</string>
+    <string name="message_to">Tuma ujumbe kwa:</string>
+    <string name="add_contacts">Ongeza Anwani</string>
+    <string name="no_contacts">Hujachagua anwani zako</string>
+    <string name="send_location">Tuma eneo langu la mwisho</string>
+    <string name="delivered">SMS Imewasilishwa</string>
+    <string name="not_delivered">SMS imeshindwa kuwasilisha</string>
+    <string name="securitly_settings">Mipangilio ya Securitly</string>
+    <string name="ask_percentaje">Tuma ujumbe wa dharura wakati kiwango cha betri kiko</string>
+    <string name="reset">Weka upya data chaguo-msingi</string>
+    <string name="warning">Onyo</string>
+    <string name="sure_delete">Je, una uhakika unataka kuweka upya data chaguomsingi?</string>
+    <string name="no_lower">Asilimia ya chini ya betri ni 2%</string>
+    <string name="no_upper">Asilimia ya juu ya betri ni 100%</string>
+    <string name="no_valid_data">Tafadhali tambulisha nambari</string>
+    <string name="about">Kuhusu</string>
+    <string name="how_to">Jinsi ya kutumia Securitly</string>
+    <string name="name">Jina:</string>
+    <string name="phone">Nambari ya simu:</string>
+    <string name="name_hint">David Martinez</string>
+    <string name="done">Imekamilika</string>
+    <string name="message_saved">Ujumbe umehifadhiwa kwa usahihi</string>
+    <string name="cancel">Ghairi</string>
+    <string name="delete_contact">Je, ungependa kufuta mwasiliani huyu kutoka kwenye orodha yako ya anwani?</string>
+    <string name="delete">Futa anwani</string>
+    <string name="fill_name">Tafadhali jaza sehemu ya "Jina".</string>
+    <string name="fill_phone">Tafadhali jaza sehemu ya "Nambari ya simu".</string>
+    <string name="instructions_1">1. Securitly inahitaji kujua eneo lako kila wakati. Ili kufanya hivyo, nenda kwenye mipangilio ya kifaa chako -> programu -> Securitly -> Ruhusa na ubadilishe ruhusa ya eneo iwe "Ruhusu kila wakati".</string>
+    <string name="instructions_2">2.Usilazimishe kufunga Securitly. Vinginevyo, ujumbe wako wa dharura hautatumwa kwa anwani zako.</string>
+    <string name="instructions_3">3. Hatupendekezi uweke kiwango cha betri ambapo utatuma ujumbe wako wa dharura kwa 1 au 2%, kwa kuwa kifaa chako kinaweza kuzima kabla ya kutuma ujumbe.</string>
+    <string name="about_us">Programu hii ilitengenezwa na wanafunzi 5 kutoka Taasisi ya Teknolojia ya Laguna, Mexico. Mradi huu ulianza kama wazo ambalo tulikusudia kufanya ukweli, na pamoja na mshauri wetu, mhandisi Gerardo, tulifanikisha. Kwa programu hii tunatarajia kuchangia kidogo na hali ya sasa duniani.</string>
+    <string name="location_example">Eneo la mwisho la kifaa changu lilikuwa:\nlatitudo:\n40.776570\nlongitudo: -73.969979\nHifadhi ya Kati Wilaya ya Kihistoria ya Magharibi\nNew York, 10024, EE. UU.</string>
+    <string name="permission_neccesary">Securitly haiwezi kufanya kazi kwa sababu ruhusa ya "Tuma SMS" haijatolewa</string>
+    <string name="location_permission_neccesary">Securitly haiwezi kufanya kazi kwa sababu ruhusa ya "Mahali Kila Mara" haijatolewa. Securitly inahitaji kujua eneo lako ili iweze kutuma eneo lako la mwisho linalojulikana kwa anwani ulizochagua</string>
+    <string name="last_location">Eneo langu la mwisho lilikuwa:</string>
+    <string name="error_getting_location">Kulikuwa na hitilafu katika kupata eneo lililochanganuliwa la kifaa hiki</string>
+    <string name="dont_show">Usionyeshe "eneo linalohitajika" pop up wakati Securitly kuanza</string>
+
+</resources>

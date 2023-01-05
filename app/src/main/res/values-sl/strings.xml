@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Securitly</string>
+    <string name="morning">Dobro jutro</string>
+    <string name="afternoon">Dober večer</string>
+    <string name="evening">Dober večer</string>
+    <string name="status">Securitly je:</string>
+    <string name="active">Aktiven</string>
+    <string name="not_active">Ni aktivno</string>
+    <string name="location_permission">Dovoljenje za lokacijo mora biti omogočeno</string>
+    <string name="location_must">Za delovanje storitve Securitly morate sprejeti dovoljenje za lokacijo</string>
+    <string name="message">Sporočilo v sili:</string>
+    <string name="message_placeholder">Živijo, jaz sem Emma, \u200b\u200bprazna mi je baterija.</string>
+    <string name="change_message">Spremeni sporočilo</string>
+    <string name="location_alert_title">Securitly mora ves čas poznati vašo lokacijo</string>
+    <string name="location_alert_message">Ali želite omogočiti svojo lokacijo?\nPojdite v Nastavitve -> Aplikacije -> Securitly -> Vedno dovoli lokacijo.\n\nNato znova zaženite Securitly</string>
+    <string name="yes">ja</string>
+    <string name="no">št</string>
+    <string name="settings">nastavitve</string>
+    <string name="message_to">Pošlji sporočilo na:</string>
+    <string name="add_contacts">Dodajte stike</string>
+    <string name="no_contacts">Niste izbrali svojih stikov</string>
+    <string name="send_location">Pošlji mojo zadnjo lokacijo</string>
+    <string name="delivered">SMS dostavljen</string>
+    <string name="not_delivered">Dostava sporočila SMS ni uspela</string>
+    <string name="securitly_settings">Nastavitve Securitly</string>
+    <string name="ask_percentaje">Pošlji sporočilo v sili, ko je napolnjenost baterije</string>
+    <string name="reset">Ponastavi privzete podatke</string>
+    <string name="warning">Opozorilo</string>
+    <string name="sure_delete">Ali ste prepričani, da želite ponastaviti privzete podatke?</string>
+    <string name="no_lower">Najmanjši odstotek baterije je 2%</string>
+    <string name="no_upper">Največji odstotek baterije je 100 %</string>
+    <string name="no_valid_data">Prosimo, vnesite številko</string>
+    <string name="about">O tem</string>
+    <string name="how_to">Kako uporabljati Securitly</string>
+    <string name="name">ime:</string>
+    <string name="phone">Telefonska številka:</string>
+    <string name="name_hint">David Martinez</string>
+    <string name="done">Končano</string>
+    <string name="message_saved">Sporočilo je pravilno shranjeno</string>
+    <string name="cancel">Prekliči</string>
+    <string name="delete_contact">Ali želite izbrisati ta stik s seznama stikov?</string>
+    <string name="delete">Izbriši stik</string>
+    <string name="fill_name">Izpolnite polje "Ime".</string>
+    <string name="fill_phone">Izpolnite polje "Telefonska številka".</string>
+    <string name="instructions_1">1. Securitly mora ves čas poznati vašo lokacijo. Če želite to narediti, pojdite v nastavitve naprave -> aplikacije -> Securitly -> Dovoljenja in spremenite dovoljenje za lokacijo na »Ves čas dovoli«.</string>
+    <string name="instructions_2">2. Ne zaprite Securitlyja na silo. V nasprotnem primeru vaše sporočilo v sili ne bo poslano vašim stikom.</string>
+    <string name="instructions_3">3. Ne priporočamo, da nastavite raven baterije, pri kateri boste poslali sporočilo v sili, na 1 ali 2 %, saj se lahko vaša naprava izklopi, preden pošljete sporočilo.</string>
+    <string name="about_us">To aplikacijo je izdelalo 5 študentov s tehnološkega inštituta Laguna v Mehiki. Ta projekt se je začel kot ideja, ki smo jo želeli uresničiti in skupaj z našim mentorjem, inženirjem Gerardom, to tudi omogočili. S to aplikacijo upamo, da bomo malo prispevali k trenutni situaciji v svetu.</string>
+    <string name="location_example">Zadnja lokacija moje naprave je bila:\nzemljepisna širina:\n40.776570\nzemljepisna dolžina: -73.969979\nZahodno zgodovinsko okrožje Central Park\nNew York, 10024, EE. UU.</string>
+    <string name="permission_neccesary">Securitly ne more delovati, ker dovoljenje »Pošlji SMS« ni odobreno</string>
+    <string name="location_permission_neccesary">Securitly ne more delovati, ker dovoljenje »Always Location« ni odobreno. Securitly mora poznati vašo lokacijo, da lahko vašo zadnjo znano lokacijo pošlje izbranim stikom</string>
+    <string name="last_location">Moja zadnja lokacija je bila:</string>
+    <string name="error_getting_location">Pri pridobivanju razčlenjene lokacije te naprave je prišlo do napake</string>
+    <string name="dont_show">Ne prikaži pojavnega okna »zahtevana lokacija«, ko se zažene Securitly</string>
+
+</resources>

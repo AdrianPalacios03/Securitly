@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Securitly</string>
+    <string name="morning">Қайырлы таң</string>
+    <string name="afternoon">Қайырлы күн</string>
+    <string name="evening">Қайырлы кеш</string>
+    <string name="status">Securitly бұл:</string>
+    <string name="active">Белсенді</string>
+    <string name="not_active">Белсенді емес</string>
+    <string name="location_permission">Орын рұқсатын қосу керек</string>
+    <string name="location_must">Securitly жұмыс істеуі үшін орын рұқсатын қабылдауыңыз керек</string>
+    <string name="message">Төтенше хабарлама:</string>
+    <string name="message_placeholder">Сәлем, мен Эммамын, менің батареям бітті.</string>
+    <string name="change_message">Хабарды өзгерту</string>
+    <string name="location_alert_title">Securitly сіздің орналасқан жеріңізді үнемі білуі керек</string>
+    <string name="location_alert_message">Орналасқан жеріңізді қосқыңыз келе ме?\nПараметрлер -> Қолданбалар -> Securitly -> Орынға әрқашан рұқсат ету тармағына өтіңіз.\n\nСодан кейін Securitly қолданбасын қайта іске қосыңыз</string>
+    <string name="yes">Иә</string>
+    <string name="no">Жоқ</string>
+    <string name="settings">Параметрлер</string>
+    <string name="message_to">Хабарлама жіберу:</string>
+    <string name="add_contacts">Контактілерді қосыңыз</string>
+    <string name="no_contacts">Сіз контактілерді таңдаған жоқсыз</string>
+    <string name="send_location">Менің соңғы орналасқан жерімді жіберіңіз</string>
+    <string name="delivered">SMS жеткізілді</string>
+    <string name="not_delivered">SMS жеткізілмеді</string>
+    <string name="securitly_settings">Securitly параметрлері</string>
+    <string name="ask_percentaje">Батарея деңгейі жоғары болғанда төтенше хабар жіберіңіз</string>
+    <string name="reset">Әдепкі деректерді қалпына келтіріңіз</string>
+    <string name="warning">Ескерту</string>
+    <string name="sure_delete">Әдепкі деректерді қалпына келтіргіңіз келетініне сенімдісіз бе?</string>
+    <string name="no_lower">Ең аз батарея пайызы 2%</string>
+    <string name="no_upper">Батареяның максималды пайызы 100%</string>
+    <string name="no_valid_data">Нөмірді енгізіңіз</string>
+    <string name="about">туралы</string>
+    <string name="how_to">Securitly қалай пайдалануға болады</string>
+    <string name="name">Аты:</string>
+    <string name="phone">Телефон нөмірі:</string>
+    <string name="name_hint">Давид Мартинес</string>
+    <string name="done">Дайын</string>
+    <string name="message_saved">Хабарлама дұрыс сақталды</string>
+    <string name="cancel">Болдырмау</string>
+    <string name="delete_contact">Бұл контактіні контактілер тізімінен жойғыңыз келе ме?</string>
+    <string name="delete">Контактіні жою</string>
+    <string name="fill_name">«Аты» өрісін толтырыңыз</string>
+    <string name="fill_phone">«Телефон нөмірі» өрісін толтырыңыз</string>
+    <string name="instructions_1">1. Securitly сіздің орналасқан жеріңізді үнемі білуі керек. Мұны істеу үшін құрылғы параметрлері -> қолданбалар -> Securitly -> Рұқсаттар тармағына өтіп, орын рұқсатын "Әр уақытта рұқсат ету" етіп өзгертіңіз.</string>
+    <string name="instructions_2">2. Securitly қолданбасын күштеп жаппаңыз. Әйтпесе, сіздің төтенше хабарыңыз контактілеріңізге жіберілмейді.</string>
+    <string name="instructions_3">3. Төтенше жағдай хабарын жіберетін батарея деңгейін 1 немесе 2%-ға орнатуды ұсынбаймыз, себебі хабарды жібермес бұрын құрылғы өшірілуі мүмкін.</string>
+    <string name="about_us">Бұл қолданбаны Мексиканың Лагуна технологиялық институтының 5 студенті жасаған. Бұл жоба біз іске асыруды мақсат еткен идея ретінде басталды және тәлімгеріміз, инженер Жерардомен бірге біз оны жүзеге асырдық. Осы қолданба арқылы біз әлемдегі қазіргі жағдайға аздап үлес қосамыз деп үміттенеміз.</string>
+    <string name="location_example">Менің құрылғымның соңғы орны:\nендік:\n40.776570\nбойлық: -73,969979\nОрталық саябақ Батыс тарихи ауданы\nНью-Йорк, 10024, EE. UU.</string>
+    <string name="permission_neccesary">Securitly жұмыс істей алмайды, себебі "SMS жіберу" рұқсаты берілмейді</string>
+    <string name="location_permission_neccesary">Securitly жұмыс істей алмайды, себебі "Әрдайым орын" рұқсаты берілмейді. Таңдалған контактілерге соңғы белгілі орналасқан жеріңізді жіберу үшін Securitly сіздің орналасқан жеріңізді білуі керек</string>
+    <string name="last_location">Менің соңғы орналасқан жерім:</string>
+    <string name="error_getting_location">Осы құрылғының талданған орнын алу кезінде қате орын алды</string>
+    <string name="dont_show">Securitly іске қосылған кезде "орын қажет" қалқымалы терезесін көрсетпеңіз</string>
+
+</resources>

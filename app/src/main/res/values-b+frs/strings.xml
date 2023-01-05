@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Securitly</string>
+    <string name="morning">Goeiemoarn</string>
+    <string name="afternoon">Goeiemiddei</string>
+    <string name="evening">Goejûn</string>
+    <string name="status">Securitly is:</string>
+    <string name="active">Aktyf</string>
+    <string name="not_active">Net aktyf</string>
+    <string name="location_permission">Lokaasjetastimming moat ynskeakele wurde</string>
+    <string name="location_must">Jo moatte lokaasjefergunning akseptearje foar Securitly om te wurkjen</string>
+    <string name="message">Emergency message:</string>
+    <string name="message_placeholder">Hoi, ik bin Emma, \u200b\u200bmyn batterij is dea.</string>
+    <string name="change_message">Berjocht feroarje</string>
+    <string name="location_alert_title">Securitly moat jo lokaasje de hiele tiid witte</string>
+    <string name="location_alert_message">"Wolle jo jo lokaasje ynskeakelje?\nGean nei Ynstellings -> Apps -> Securitly -> Lokaasje altyd tastean.\n\nStart dan Securitly op e nij"</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nee</string>
+    <string name="settings">Ynstellings</string>
+    <string name="message_to">Stjoer berjocht nei:</string>
+    <string name="add_contacts">Kontakten tafoegje</string>
+    <string name="no_contacts">Jo hawwe jo kontakten net selektearre</string>
+    <string name="send_location">Stjoer myn lêste lokaasje</string>
+    <string name="delivered">SMS levere</string>
+    <string name="not_delivered">SMS mislearre levering</string>
+    <string name="securitly_settings">Securitly ynstellings</string>
+    <string name="ask_percentaje">Stjoer needberjocht as it batterijnivo is</string>
+    <string name="reset">Reset standert gegevens</string>
+    <string name="warning">Warskôging</string>
+    <string name="sure_delete">Binne jo wis dat jo standertgegevens weromsette wolle?</string>
+    <string name="no_lower">Minimum batterij persintaazje is 2%</string>
+    <string name="no_upper">Maksimum batterij persintaazje is 100%</string>
+    <string name="no_valid_data">Fier in nûmer yn</string>
+    <string name="about">Oer</string>
+    <string name="how_to">Hoe kinne jo Securitly brûke</string>
+    <string name="name">Namme:</string>
+    <string name="phone">Telefoannûmer:</string>
+    <string name="name_hint">David Martínez</string>
+    <string name="done">Dien</string>
+    <string name="message_saved">Berjocht goed bewarre</string>
+    <string name="cancel">Ofbrekke</string>
+    <string name="delete_contact">Wolle jo dit kontakt wiskje fan jo kontaktenlist?</string>
+    <string name="delete">Kontakt wiskje</string>
+    <string name="fill_name">Folje asjebleaft it "Namme" fjild yn</string>
+    <string name="fill_phone">Folje asjebleaft it "Telefoonnûmer" fjild yn</string>
+    <string name="instructions_1">1. Securitly moat jo lokaasje de hiele tiid witte. Om dat te dwaan, gean nei jo apparaatynstellingen -> apps -> Securitly -> Tastimmingen en feroarje de lokaasjefergunning nei "Altyd tastean".</string>
+    <string name="instructions_2">2. Net twinge ticht Securitly. Oars sil jo needberjocht net nei jo kontakten stjoerd wurde.</string>
+    <string name="instructions_3">"3. Wy riede net oan dat jo it batterijnivo ynstelle wêrop jo jo needberjocht nei 1 of 2% stjoere, omt jo apparaat útskeakelje kin foardat jo it berjocht ferstjoere."</string>
+    <string name="about_us">"Dizze app is makke troch 5 studinten fan it Technological Institute of Laguna, Meksiko. Dit projekt begûn as in idee dat wy úteinsette om in werklikheid te meitsjen, en tegearre mei ús mentor, yngenieur Gerardo, makken wy it mooglik. Mei dizze app hoopje wy in bytsje by te dragen mei de hjoeddeistige situaasje yn e wrâld."</string>
+    <string name="location_example">De lêste lokaasje fan myn apparaat wie:\nbreedte:\n40.776570\nlingtegraad: -73.969979\nCentral Park West Histoarysk District\nNew York, 10024, EE. UU.</string>
+    <string name="permission_neccesary">Securitly kin net wurkje om\t tastimming "SMS ferstjoere" net wurdt ferliend</string>
+    <string name="location_permission_neccesary">Securitly kin net wurkje om\t tastimming "Altyd Lokaasje" net wurdt ferliend. Securitly moat jo lokaasje witte, sadat it jo lêste bekende lokaasje kin stjoere nei jo selekteare kontakten</string>
+    <string name="last_location">Myn lêste lokaasje wie:</string>
+    <string name="error_getting_location">Der wie in flater by it opheljen fan de parsearde lokaasje fan dit apparaat</string>
+    <string name="dont_show">Lit de pop-up "lokaasje fereaske" net sjen as Securitly begjint</string>
+
+</resources>

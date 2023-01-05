@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Securitly</string>
+    <string name="morning">Gudde Moien</string>
+    <string name="afternoon">Gudde Mëtteg</string>
+    <string name="evening">Gudden Owend</string>
+    <string name="status">Securitly ass:</string>
+    <string name="active">Aktiv</string>
+    <string name="not_active">Net aktiv</string>
+    <string name="location_permission">Location Erlaabnis muss aktivéiert ginn</string>
+    <string name="location_must">"Dir musst dLocation Erlaabnis akzeptéieren fir Securitly ze schaffen"</string>
+    <string name="message">Noutmeldung:</string>
+    <string name="message_placeholder">"Salut, ech sinn dEmma, \u200b\u200bmeng Batterie ass gestuerwen."</string>
+    <string name="change_message">Message änneren</string>
+    <string name="location_alert_title">Securitly muss Är Positioun déi ganzen Zäit wëssen</string>
+    <string name="location_alert_message">Wëllt Dir Är Location aktivéieren?\nGitt op Astellungen -> Apps -> Securitly -> Locatioun ëmmer erlaben.\n\nDa restart Securitly</string>
+    <string name="yes">Jo</string>
+    <string name="no">Nee</string>
+    <string name="settings">Astellungen</string>
+    <string name="message_to">Schéckt de Message un:</string>
+    <string name="add_contacts">Foto Kontakter</string>
+    <string name="no_contacts">Dir hutt Är Kontakter net ausgewielt</string>
+    <string name="send_location">Schéckt meng lescht Plaz</string>
+    <string name="delivered">SMS geliwwert</string>
+    <string name="not_delivered">SMS konnt net geliwwert ginn</string>
+    <string name="securitly_settings">Securitly Astellungen</string>
+    <string name="ask_percentaje">Schécken Noutfall Message wann Batterie Niveau ass</string>
+    <string name="reset">Reset Standarddaten</string>
+    <string name="warning">Warnung</string>
+    <string name="sure_delete">Sidd Dir sécher datt Dir Standarddaten zrécksetzen wëllt?</string>
+    <string name="no_lower">Minimum Batterie Prozentsaz ass 2%</string>
+    <string name="no_upper">Maximum Batterie Prozentsaz ass 100%</string>
+    <string name="no_valid_data">Gitt w.e.g. eng Nummer vir</string>
+    <string name="about">Iwwer</string>
+    <string name="how_to">Wéi benotzt Dir Securitly</string>
+    <string name="name">Numm:</string>
+    <string name="phone">Telefonsnummer:</string>
+    <string name="name_hint">David Martinez</string>
+    <string name="done">Gemaach</string>
+    <string name="message_saved">Message richteg gespäichert</string>
+    <string name="cancel">Ofbriechen</string>
+    <string name="delete_contact">Wëllt Dir dëse Kontakt aus Ärer Kontaktlëscht läschen?</string>
+    <string name="delete">Kontakt läschen</string>
+    <string name="fill_name">Fëllt w.e.g. den "Numm" Feld aus</string>
+    <string name="fill_phone">Fëllt w.e.g. d\Feld "Telefonsnummer" aus</string>
+    <string name="instructions_1">1. Securitly muss Är Location déi ganzen Zäit wëssen. Fir dat ze maachen, gitt op Ären Apparat Astellungen -> Apps -> Securitly -> Permissiounen a ännert d\Plazerlaabnes op "Allerzäit erlaaben".</string>
+    <string name="instructions_2">2.Do Kraaft net zoumaachen Securitly. Soss gëtt Är Noutmeldung net un Är Kontakter geschéckt.</string>
+    <string name="instructions_3">"3. Mir recommandéieren net datt Dir de Batterieniveau setzt, op deem Dir Är Noutmeldung op 1 oder 2% schéckt, well Ären Apparat kann ausschalten ier Dir dNoriicht schéckt."</string>
+    <string name="about_us">Dës App gouf vu 5 Studenten aus dem Technological Institute of Laguna, Mexiko gemaach. Dëse Projet huet ugefaang als eng Iddi, déi mir eis virgestallt hunn, eng Realitéit ze maachen, an zesumme mat eisem Mentor, dem Ingenieur Gerardo, hu mir et méiglech gemaach. Mat dëser App hoffen mir e bësse mat der aktueller Situatioun op der Welt bäizedroen.</string>
+    <string name="location_example">Déi lescht Plaz vu mengem Apparat war:\nBreet:\n40.776570\nLängt: -73.969979\nCentral Park West Historic District\nNew York, 10024, EE. UU.</string>
+    <string name="permission_neccesary">Securitly kann net schaffen well d\Erlaabnis "SMS schécken" net erlaabt ass</string>
+    <string name="location_permission_neccesary">Securitly kann net schaffen well d\Erlaabnis "Always Location" net gëtt. Securitly muss Är Positioun kennen, sou datt et Är lescht bekannte Plaz un Är gewielte Kontakter schécken kann</string>
+    <string name="last_location">Meng lescht Plaz war:</string>
+    <string name="error_getting_location">Et gouf e Feeler beim Erhalen vun dësem Apparat seng parséiert Plaz</string>
+    <string name="dont_show">Weist net de "Plaz néideg" Pop-up wann Securitly ufänkt</string>
+
+</resources>

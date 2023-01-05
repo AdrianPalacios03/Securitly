@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Securitly</string>
+    <string name="morning">Mholo</string>
+    <string name="afternoon">Mholo</string>
+    <string name="evening">Molo ngokuhlwa</string>
+    <string name="status">USecuritly uthi:</string>
+    <string name="active">Iyasebenza</string>
+    <string name="not_active">Ayisebenzi</string>
+    <string name="location_permission">Imvume yendawo kufuneka yenziwe</string>
+    <string name="location_must">Kuya kufuneka wamkele imvume yendawo ukuze iSecuritly isebenze</string>
+    <string name="message">Umyalezo kaxakeka:</string>
+    <string name="message_placeholder">Molo, ndinguEmma, \u200b\u200bibhetri yam ifile.</string>
+    <string name="change_message">Guqula umyalezo</string>
+    <string name="location_alert_title">USecuritly kufuneka uyazi indawo yakho ngalo lonke ixesha</string>
+    <string name="location_alert_message">Ngaba uyafuna ukwenza indawo yakho isebenze?\nYiya kwiiSetingi -> Ii-Apps -> Securitly -> Hlala uvumela indawo.\n\nEmva koko uqalise kwakhona iSecuritly</string>
+    <string name="yes">Ewe</string>
+    <string name="no">Hayi</string>
+    <string name="settings">Iisetingi</string>
+    <string name="message_to">Thumela umyalezo ku:</string>
+    <string name="add_contacts">Yongeza abafowunelwa</string>
+    <string name="no_contacts">Awukhethanga abafowunelwa bakho</string>
+    <string name="send_location">Thumela indawo yam yokugqibela</string>
+    <string name="delivered">Ithunyelwe ngeSMS</string>
+    <string name="not_delivered">I-SMS ayiphumelelanga ukuhanjiswa</string>
+    <string name="securitly_settings">Useto lweSecuritly</string>
+    <string name="ask_percentaje">Thumela umyalezo kaxakeka xa ibhetri ikwinqanaba eliphezulu</string>
+    <string name="reset">Phinda umisele idatha ehlala ikho</string>
+    <string name="warning">Isilumkiso</string>
+    <string name="sure_delete">Uqinisekile ukuba ufuna ukuseta kwakhona idata ehlala ikho?</string>
+    <string name="no_lower">Ubuncinci bepesenti yebhetri yi-2%</string>
+    <string name="no_upper">Ubuninzi bepesenti yebhetri yi 100%</string>
+    <string name="no_valid_data">Nceda wazise inombolo</string>
+    <string name="about">Malunga</string>
+    <string name="how_to">Uyisebenzisa njani iSecuritly</string>
+    <string name="name">Igama:</string>
+    <string name="phone">Inombolo yomnxeba:</string>
+    <string name="name_hint">UDavid Martínez</string>
+    <string name="done">Ugqibile</string>
+    <string name="message_saved">Umyalezo ugcinwe ngokuchanekileyo</string>
+    <string name="cancel">Rhoxisa</string>
+    <string name="delete_contact">Ngaba ufuna ukucima lomfowunelwa kuluhlu lwabafowunelwa bakho?</string>
+    <string name="delete">Cima umfownelwa</string>
+    <string name="fill_name">Nceda ugcwalise indawo ethi "Igama".</string>
+    <string name="fill_phone">Nceda ugcwalise indawo ethi "Inombolo yefowuni".</string>
+    <string name="instructions_1">1. USecuritly ufuna ukwazi indawo okuyo ngalo lonke ixesha. Ukuze wenze oko, yiya kuseto lwesixhobo sakho -> ii -apps -> Securitly -> Iimvume kwaye utshintshe imvume yendawo ukuba "Vumela lonke ixesha".</string>
+    <string name="instructions_2">2.Musa ukunyanzela ukuvala iSecuritly. Kungenjalo, umyalezo wakho kaxakeka awuzukuthunyelwa kubafowunelwa bakho.</string>
+    <string name="instructions_3">3. Asikukhuthazi ukuba usete inqanaba lebhetri apho uza kuthumela umyalezo wakho kaxakeka kwi-1 okanye 2%, njengoko ifowuni yakho inokucima ngaphambi kokuthumela umyalezo.</string>
+    <string name="about_us">Le app yenziwe ngabafundi aba-5 abavela kwiTekhnoloji Institute of Laguna, Mexico. Le projekthi yaqala njengengcinga esasizimisele ukuyenza, kwaye kunye nomcebisi wethu, injineli uGerardo, senze ukuba senzeka. Ngale app sinethemba lokufaka isandla kancinci ngemeko yangoku emhlabeni.</string>
+    <string name="location_example">Indawo yokugqibela yesixhobo sam yaba:\nisibanzi:\n40.776570\nubude: -73.969979\nI-Central Park yeSithili seMbali saseNtshona\nENew York, ngo-10024, EE. UU.</string>
+    <string name="permission_neccesary">I-Securitly ayikwazi ukusebenza kuba imvume "Thumela iSMS" ayinikwanga</string>
+    <string name="location_permission_neccesary">I-Securitly ayikwazi ukusebenza ngenxa yokuba imvume ye-"Soloko iNdawo" ayinikwanga. ISecuritly kufuneka iyazi indawo okuyo ukuze ikwazi ukuthumela indawo yakho yokugqibela eyaziwayo kubafowunelwa bakho obakhethileyo</string>
+    <string name="last_location">Indawo yam yokugqibela yaba:</string>
+    <string name="error_getting_location">Kubekho impazamo ekufumaneni indawo ecazululiweyo yesi sixhobo</string>
+    <string name="dont_show">Sukubonisa "indawo efunekayo" xa iSecuritly iqala</string>
+
+</resources>

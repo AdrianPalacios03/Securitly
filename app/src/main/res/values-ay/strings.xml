@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Securitly</string>
+    <string name="morning">Aski alwakipana</string>
+    <string name="afternoon">"Aski jaypu"</string>
+    <string name="evening">Aski arumaki</string>
+    <string name="status">Securitly ukax akhamawa:</string>
+    <string name="active">Aktiwu</string>
+    <string name="not_active">Janiw Activo ukhamäkiti</string>
+    <string name="location_permission">Uka chiqanx permiso ukax ch’amanchatäñapawa</string>
+    <string name="location_must">Securitly ukan irnaqañapatakix uñt’ayañ permiso katuqañamawa</string>
+    <string name="message">Jan walt’äwin yatiyawipa:</string>
+    <string name="message_placeholder">Hi, nayax Emma, \u200b\u200bpilajax jiwxiwa.</string>
+    <string name="change_message">Yatiyawi mayjt’ayaña</string>
+    <string name="location_alert_title">Securitly ukax sapa kutiw kawkhans jikxatasi uk yatiñapa</string>
+    <string name="location_alert_message">¿Jumax kawkhantï jikxataskta uk activañ munasmati?\nConfiguración -> Aplicaciones -> Securitly -> Sapa kutiw uñt’ayañama.\n\nUkatxa Securitly ukar wasitat qalltañamawa</string>
+    <string name="yes">Jïsa</string>
+    <string name="no">Janiwa</string>
+    <string name="settings">Ukax mä juk’a pachanakanwa</string>
+    <string name="message_to">Mä yatiyaw apayanipxam aka tuqir:</string>
+    <string name="add_contacts">Contactos ukanakamp yapxataña</string>
+    <string name="no_contacts">Jumax janiw contactonak ajlliwayktati</string>
+    <string name="send_location">Qhipa uñstawijaruw apayanipxsma</string>
+    <string name="delivered">SMS ukax puriyatawa</string>
+    <string name="not_delivered">SMS ukax janiw puriykiti</string>
+    <string name="securitly_settings">Securitly ukan utt’ayatanakapa</string>
+    <string name="ask_percentaje">Ukaxa mä emergencia yatiyawi apayanitawa kunapachatixa nivel de pila ukaxa</string>
+    <string name="reset">Datos predeterminados ukanaka mayampi utt’ayaña</string>
+    <string name="warning">Yatiyawi</string>
+    <string name="sure_delete">¿Jumaxa chiqatixa datos predeterminados ukanaka mayampi utt’ayañ munasmati?</string>
+    <string name="no_lower">Uka pilax sapa patakatx 2% ukhawa .</string>
+    <string name="no_upper">Mä jach’a pilax sapa patakatx 100% ukhawa .</string>
+    <string name="no_valid_data">Mä jakhüwi uñt’ayañamawa</string>
+    <string name="about">Ukxata</string>
+    <string name="how_to">Kunjamas Securitly apnaqaña</string>
+    <string name="name">Chacha:</string>
+    <string name="phone">Teléfono numero:</string>
+    <string name="name_hint">David Martínez sat jilataw ukham luräna</string>
+    <string name="done">Lurata</string>
+    <string name="message_saved">Yatiyawix chiqaparuw imatäski</string>
+    <string name="cancel">Kansilaña</string>
+    <string name="delete_contact">¿Aka contacto ukarux lista de contactos ukanx chhaqtayañ munasmati?</string>
+    <string name="delete">Contacto chhaqtayaña</string>
+    <string name="fill_name">Ukhamaraki "Suti" chimpu phuqhachañamawa</string>
+    <string name="fill_phone">Ukhamaraki, "Telefono jakhu" chimpu phuqhachañamawa</string>
+    <string name="instructions_1">1. Securitly ukax sapa kutiw kawkhans jikxatasi uk yatiñapa. Uk lurañatakix dispositivo ukan configuración -> apps -> Securitly -> Permisos ukar sarañamawa ukat ukan permiso ukar "Permitir todo el tiempo" ukar mayjt’ayañamawa.</string>
+    <string name="instructions_2">2.Janiw Securitly jist’antañax wakiskiti. Jan ukhamäkanixa, emergencia tuqit yatiyawix janiw contactonakamar apayatäkaniti.</string>
+    <string name="instructions_3">3. Janiwa wakiskiti nivel de batería ukaxa 1 jan ukaxa 2% ukharu uñt’ayañataki, kunatixa dispositivo ukaxa jist’antasispawa janïra yatiyawi apayankasaxa.</string>
+    <string name="about_us">Aka app ukax 5 yatiqirinakan luratawa, jupanakax Instituto Tecnológico de Laguna, México uksankapxi. Aka proyectox mä amuyt’äwjamaw qalltawayi, ukax chiqäñapatakiw sartasiwayta, ukatx yatichirijampix ingeniero Gerardo jupamp chikaw ukax lurasiwayxi. Aka app ukampix mä juk’a yanapt’añ suyt’apxta kunatix jichhax uraqpachan utjki ukanakampi.</string>
+    <string name="location_example">Dispositivojan qhep qhepa cheqajj akhamänwa:\nlatitud ukax akhamawa:\n40.776570 ukha qullqiwa\nukatsti ukax -73,969979 ukhawa\nCentral Park West Distrito Histórico ukax mä jach’a uñacht’äwiwa\nNueva York, 10024, EE., ukat juk’ampinaka. UU.</string>
+    <string name="permission_neccesary">Securitly ukax janiw irnaqkaspati kunatix "SMS apayani" ukax janiw churatäkiti</string>
+    <string name="location_permission_neccesary">Securitly ukax janiw irnaqkaspati kunatix "Always Location" ukax janiw churatäkiti. Securitly ukax kawkhantix jikxataskta uk yatiñaw wakisi ukhamat qhipa uñt’at chiqawj ajllit jaqinakamar apayaniñapataki</string>
+    <string name="last_location">Qhep qhepa cheqajj akhamänwa:</string>
+    <string name="error_getting_location">Aka dispositivo ukan parsed ukan uñt’ayasiñapatakix mä pantjasiw utjawayi</string>
+    <string name="dont_show">Janiw "uñt\ayañax wakisi" pop up uñacht\ayañakiti kunawsatix Securitly qalltaski ukhaxa</string>
+
+</resources>

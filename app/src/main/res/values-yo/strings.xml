@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Securitly</string>
+    <string name="morning">E kaaro</string>
+    <string name="afternoon">E kaasan</string>
+    <string name="evening">Ka a ale</string>
+    <string name="status">Securitly ni:</string>
+    <string name="active">Ti nṣiṣe lọwọ</string>
+    <string name="not_active">Ko Ṣiṣẹ</string>
+    <string name="location_permission">Igbanilaaye ipo ni lati mu ṣiṣẹ</string>
+    <string name="location_must">O gbọdọ gba igbanilaaye ipo fun Securitly lati ṣiṣẹ</string>
+    <string name="message">Ifiranṣẹ pajawiri:</string>
+    <string name="message_placeholder">Bawo, Emi ni Emma, \u200b\u200bbatiri mi ti ku.</string>
+    <string name="change_message">Yi ifiranṣẹ pada</string>
+    <string name="location_alert_title">Securitly nilo lati mọ ipo rẹ ni gbogbo igba</string>
+    <string name="location_alert_message">Ṣe o fẹ lati mu ipo rẹ ṣiṣẹ?\nLọ si Eto -> Awọn ohun elo -> Securitly -> Gba ipo laaye nigbagbogbo.\n\nLẹhinna tun bẹrẹ Securitly</string>
+    <string name="yes">Bẹẹni</string>
+    <string name="no">Rara</string>
+    <string name="settings">Ètò</string>
+    <string name="message_to">Fi ifiranṣẹ ranṣẹ si:</string>
+    <string name="add_contacts">Fi Awọn olubasọrọ kun</string>
+    <string name="no_contacts">O ko yan awọn olubasọrọ rẹ</string>
+    <string name="send_location">Firanṣẹ ipo mi kẹhin</string>
+    <string name="delivered">Ti firanṣẹ SMS</string>
+    <string name="not_delivered">SMS kuna ifijiṣẹ</string>
+    <string name="securitly_settings">Awọn eto Securitly</string>
+    <string name="ask_percentaje">Firanṣẹ ifiranṣẹ pajawiri nigbati ipele batiri ba wa</string>
+    <string name="reset">Tun aiyipada data</string>
+    <string name="warning">Ikilo</string>
+    <string name="sure_delete">Ṣe o da ọ loju pe o fẹ tun data aiyipada pada bi?</string>
+    <string name="no_lower">Iwọn batiri ti o kere julọ jẹ 2%</string>
+    <string name="no_upper">Iwọn batiri ti o pọju jẹ 100%</string>
+    <string name="no_valid_data">Jọwọ ṣafihan nọmba kan</string>
+    <string name="about">Nipa</string>
+    <string name="how_to">Bii o ṣe le lo Securitly</string>
+    <string name="name">Orukọ:</string>
+    <string name="phone">Nomba fonu:</string>
+    <string name="name_hint">David Martínez</string>
+    <string name="done">Ti ṣe</string>
+    <string name="message_saved">Ifiranṣẹ ti o ti fipamọ daradara</string>
+    <string name="cancel">Fagilee</string>
+    <string name="delete_contact">Ṣe o fẹ lati pa olubasọrọ yii rẹ lati atokọ awọn olubasọrọ rẹ bi?</string>
+    <string name="delete">Pa olubasọrọ rẹ</string>
+    <string name="fill_name">Jọwọ kun aaye "Orukọ".</string>
+    <string name="fill_phone">Jọwọ kun aaye "Nọmba foonu".</string>
+    <string name="instructions_1">1. Securitly nilo lati mọ ipo rẹ ni gbogbo igba. Ni ibere lati se pe, lọ si ẹrọ rẹ eto -> apps -> Securitly -> Awọn igbanilaaye ati ki o yi awọn igbanilaaye ipo lati "Gba gbogbo awọn akoko".</string>
+    <string name="instructions_2">2.Do ko ipa pa Securitly. Bibẹẹkọ, ifiranṣẹ pajawiri rẹ kii yoo fi ranṣẹ si awọn olubasọrọ rẹ.</string>
+    <string name="instructions_3">3. A ko ṣeduro pe ki o ṣeto ipele batiri ni eyiti iwọ yoo fi ifiranṣẹ pajawiri rẹ ranṣẹ si 1 tabi 2%, nitori ẹrọ rẹ le paa ṣaaju fifiranṣẹ ifiranṣẹ naa.</string>
+    <string name="about_us">Ohun elo yii jẹ nipasẹ awọn ọmọ ile-iwe 5 lati Ile-ẹkọ Imọ-ẹrọ ti Laguna, Mexico. Ise agbese yii bẹrẹ bi imọran ti a ṣeto lati ṣe otitọ, ati pẹlu olutọran wa, ẹlẹrọ Gerardo, a jẹ ki o ṣee ṣe. Pẹlu ohun elo yii a nireti lati ṣe alabapin diẹ pẹlu ipo lọwọlọwọ ni agbaye.</string>
+    <string name="location_example">Ibi to kẹhin ti ẹrọ mi ni:\nlatitude:\n40.776570\nìgùn: -73.969979\nCentral Park West Historic DISTRICT\nNiu Yoki, 10024, EE. UU.</string>
+    <string name="permission_neccesary">Securitly ko le ṣiṣẹ nitori “Fi SMS ranṣẹ” ko gba laaye</string>
+    <string name="location_permission_neccesary">Securitly ko le ṣiṣẹ nitori “Ipo Nigbagbogbo” ko gba laaye. Securitly nilo lati mọ ipo rẹ ki o le fi ipo ti o mọ kẹhin ranṣẹ si awọn olubasọrọ ti o yan</string>
+    <string name="last_location">Ipo mi kẹhin ni:</string>
+    <string name="error_getting_location">Aṣiṣe kan wa lati gba ipo ti ẹrọ yi ti a ti ṣe itupalẹ</string>
+    <string name="dont_show">Maṣe fi “ipo ti a beere” han nigbati Securitly bẹrẹ</string>
+
+</resources>

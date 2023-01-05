@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Securitly</string>
+    <string name="morning">Доброе утро</string>
+    <string name="afternoon">Добрый день</string>
+    <string name="evening">Добрый вечер</string>
+    <string name="status">Спотифай это:</string>
+    <string name="active">Активный</string>
+    <string name="not_active">Не активный</string>
+    <string name="location_permission">Разрешение на определение местоположения должно быть включено</string>
+    <string name="location_must">Вы должны принять разрешение на определение местоположения, чтобы Securitly работал</string>
+    <string name="message">Аварийное сообщение:</string>
+    <string name="message_placeholder">Привет, я Эмма, у меня села батарейка.</string>
+    <string name="change_message">Изменить сообщение</string>
+    <string name="location_alert_title">Securitly должен постоянно знать ваше местоположение</string>
+    <string name="location_alert_message">Вы хотите включить свое местоположение?\nПерейдите в «Настройки» -> «Приложения» -> «Securitly» -> «Всегда разрешать местоположение».\n\nЗатем перезапустите Securitly</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="settings">Настройки</string>
+    <string name="message_to">Отправить сообщение на:</string>
+    <string name="add_contacts">Добавить контакты</string>
+    <string name="no_contacts">Вы не выбрали свои контакты</string>
+    <string name="send_location">Отправить мое последнее местоположение</string>
+    <string name="delivered">SMS доставлено</string>
+    <string name="not_delivered">СМС не доставлено</string>
+    <string name="securitly_settings">Настройки Securitly</string>
+    <string name="ask_percentaje">Отправить экстренное сообщение, когда уровень заряда батареи</string>
+    <string name="reset">Сбросить данные по умолчанию</string>
+    <string name="warning">Предупреждение</string>
+    <string name="sure_delete">Вы уверены, что хотите сбросить данные по умолчанию?</string>
+    <string name="no_lower">Минимальный процент заряда батареи 2%</string>
+    <string name="no_upper">Максимальный процент заряда батареи 100%</string>
+    <string name="no_valid_data">Пожалуйста, введите номер</string>
+    <string name="about">О</string>
+    <string name="how_to">Как использовать Спотифай</string>
+    <string name="name">Имя:</string>
+    <string name="phone">Телефонный номер:</string>
+    <string name="name_hint">Давид Мартинес</string>
+    <string name="done">Выполнено</string>
+    <string name="message_saved">Сообщение сохранено правильно</string>
+    <string name="cancel">Отмена</string>
+    <string name="delete_contact">Вы хотите удалить этот контакт из списка контактов?</string>
+    <string name="delete">Удалить контакт</string>
+    <string name="fill_name">Пожалуйста, заполните поле "Имя"</string>
+    <string name="fill_phone">Пожалуйста, заполните поле "Номер телефона"</string>
+    <string name="instructions_1">1. Securitly должен постоянно знать ваше местоположение. Для этого перейдите в настройки вашего устройства -> Приложения -> Securitly -> Разрешения и измените разрешение местоположения на «Разрешить все время».</string>
+    <string name="instructions_2">2. Не закрывайте Securitly принудительно. В противном случае ваше экстренное сообщение не будет отправлено вашим контактам.</string>
+    <string name="instructions_3">3. Мы не рекомендуем вам устанавливать уровень заряда батареи, при котором вы будете отправлять экстренное сообщение, на 1 или 2%, так как ваше устройство может выключиться до отправки сообщения.</string>
+    <string name="about_us">Это приложение было сделано 5 студентами из Технологического института Лагуны, Мексика. Этот проект начался как идея, которую мы решили воплотить в жизнь, и вместе с нашим наставником, инженером Херардо, мы сделали это возможным. С помощью этого приложения мы надеемся внести небольшой вклад в текущую ситуацию в мире.</string>
+    <string name="location_example">Последнее местоположение моего устройства:\nширота:\n40.776570\nдолгота: -73,969979\nЗападный исторический район Центрального парка\nНью-Йорк, 10024, EE. УУ.</string>
+    <string name="permission_neccesary">Securitly не может работать, потому что разрешение «Отправить SMS» не предоставлено</string>
+    <string name="location_permission_neccesary">Securitly не может работать, потому что разрешение «Всегда определять местоположение» не предоставлено. Securitly необходимо знать ваше местоположение, чтобы он мог отправить ваше последнее известное местоположение выбранным вами контактам.</string>
+    <string name="last_location">Моя последняя локация была:</string>
+    <string name="error_getting_location">Не удалось получить проанализированное местоположение этого устройства.</string>
+    <string name="dont_show">Не показывать всплывающее окно «Требуется местоположение» при запуске Securitly</string>
+
+</resources>

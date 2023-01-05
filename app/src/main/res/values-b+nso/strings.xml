@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Securitly</string>
+    <string name="morning">Thobela</string>
+    <string name="afternoon">Thobela</string>
+    <string name="evening">Thobela</string>
+    <string name="status">Securitly ke:</string>
+    <string name="active">Mafolofolo</string>
+    <string name="not_active">Ga se ya Mafolofolo</string>
+    <string name="location_permission">Tumelelo ya lefelo e swanetše go kgontšhwa</string>
+    <string name="location_must">O swanetše go amogela tumelelo ya lefelo gore Securitly e šome</string>
+    <string name="message">Molaetša wa tšhoganetšo:</string>
+    <string name="message_placeholder">Thobela, ke nna Emma, \u200b\u200bbetri ya ka e hwile.</string>
+    <string name="change_message">Fetola Molaetša</string>
+    <string name="location_alert_title">Securitly e hloka go tseba lefelo la gago ka mehla</string>
+    <string name="location_alert_message">Na o nyaka go kgontšha lefelo la gago?\nEya go Dipeakanyo -> Ditirišo -> Securitly -> Ka mehla dumelela lefelo.\n\nKe moka o thome Securitly gape</string>
+    <string name="yes">Ee</string>
+    <string name="no">Aowa</string>
+    <string name="settings">Dipeakanyo</string>
+    <string name="message_to">Romela molaetša go:</string>
+    <string name="add_contacts">Oketša Mabitso</string>
+    <string name="no_contacts">Ga se wa kgetha dikgokagano tša gago</string>
+    <string name="send_location">Romela lefelo la ka la mafelelo</string>
+    <string name="delivered">SMS e tlišitšwe</string>
+    <string name="not_delivered">SMS e paletšwe ke go tliša</string>
+    <string name="securitly_settings">Dipeakanyo tša Securitly</string>
+    <string name="ask_percentaje">Romela molaetša wa tšhoganetšo ge maemo a betri a le</string>
+    <string name="reset">Reset ya data ya default</string>
+    <string name="warning">Temošo</string>
+    <string name="sure_delete">Na o na le bonnete bja gore o nyaka go seta gape datha ya go se fetoge?</string>
+    <string name="no_lower">Bonyane phesente ya betri ke 2% .</string>
+    <string name="no_upper">Palo e kahodimodimo leshala phesente ke 100% .</string>
+    <string name="no_valid_data">Ke kgopela le tsebiše nomoro</string>
+    <string name="about">Mabapi le</string>
+    <string name="how_to">Tsela ya go diriša Securitly</string>
+    <string name="name">Leina:</string>
+    <string name="phone">Nomoro ya mogala:</string>
+    <string name="name_hint">David Martínez o ile a re</string>
+    <string name="done">Phethilwe</string>
+    <string name="message_saved">Molaetša o bolokilwe ka nepo</string>
+    <string name="cancel">Khansela</string>
+    <string name="delete_contact">Na o nyaka go phumola kgokagano ye lenaneong la gago la dikgokagano?</string>
+    <string name="delete">Phimola kgokagano</string>
+    <string name="fill_name">Hle tlatša tšhemo ya "Leina".</string>
+    <string name="fill_phone">Hle tlatša tšhemo ya "Nomoro ya mogala".</string>
+    <string name="instructions_1">1. Securitly e hloka go tseba lefelo la gago ka mehla. Gore o kgone go dira seo, eya go dipeakanyo tša gago tša sedirišwa -> didirišwa -> Securitly -> Ditumelelo gomme o fetoše tumelelo ya lefelo go "Dumelela nako ka moka".</string>
+    <string name="instructions_2">2.Do se ke ua qobella koala Securitly. Go sego bjalo, molaetša wa gago wa tšhoganetšo o ka se romelwe go bao o ikgokaganyago le bona.</string>
+    <string name="instructions_3">3. Ga re kgothaletše gore o beakantše maemo a betri ao o tlago go romela molaetša wa gago wa tšhoganetšo go 1 goba 2%, ka ge sedirišwa sa gago se ka tima pele o romela molaetša.</string>
+    <string name="about_us">Sedirišwa se se dirilwe ke baithuti ba 5 go tšwa Setheong sa Theknolotši sa Laguna, Mexico. Protšeke ye e thomile bjalo ka kgopolo yeo re ikemišeditšego go dira gore e be ya kgonthe, gomme mmogo le mohlahli wa rena, moentšeneare Gerardo, re dirile gore go kgonege. Ka tirišo ye re holofela go tsenya letsogo go se nene ka seemo sa bjale lefaseng.</string>
+    <string name="location_example">Lefelo la mafelelo la sedirišwa sa-ka e be e le:\nlatitude: .\n40.776570 e le nngwe\nbolelele: -73,969979\nSetereke sa Histori sa Central Park West\nNew York, 10024, E. E.. UU.</string>
+    <string name="permission_neccesary">Securitly e ka se šome ka gobane tumelelo ya "Romela SMS" ga e fiwe</string>
+    <string name="location_permission_neccesary">Securitly e ka se šome ka gobane tumelelo ya "Ka mehla Lefelo" ga e fiwe. Securitly e swanetše go tseba lefelo la gago gore e kgone go romela lefelo la gago la mafelelo leo le tsebjago go dikgokagano tša gago tšeo o di kgethilego</string>
+    <string name="last_location">Lefelo la-ka la mafelelo e bile:</string>
+    <string name="error_getting_location">Go bile le phošo ya go hwetša lefelo leo le hlahlobjago la sedirišwa se</string>
+    <string name="dont_show">O se ke wa bontšha "lefelo le le nyakegago" pop up ge Securitly e thoma</string>
+
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Securitly</string>
+    <string name="morning">Өглөөний мэнд</string>
+    <string name="afternoon">Өдрийн мэнд</string>
+    <string name="evening">Оройн мэнд</string>
+    <string name="status">Securitly нь:</string>
+    <string name="active">Идэвхтэй</string>
+    <string name="not_active">Идэвхгүй</string>
+    <string name="location_permission">Байршлын зөвшөөрлийг идэвхжүүлсэн байх шаардлагатай</string>
+    <string name="location_must">Та Securitly-г ажиллуулахын тулд байршлын зөвшөөрлийг зөвшөөрөх ёстой</string>
+    <string name="message">Яаралтай тусламжийн мессеж:</string>
+    <string name="message_placeholder">Сайн уу, би Эмма байна, миний батерей дууслаа.</string>
+    <string name="change_message">Мессежийг өөрчлөх</string>
+    <string name="location_alert_title">Securitly таны байршлыг байнга мэдэж байх ёстой</string>
+    <string name="location_alert_message">Та байршлаа идэвхжүүлэхийг хүсэж байна уу?\nТохиргоо -> Програм -> Securitly -> Байршлыг үргэлж зөвшөөрөх хэсэгт очно уу.\n\nДараа нь Securitly-г дахин эхлүүлнэ үү</string>
+    <string name="yes">Тиймээ</string>
+    <string name="no">Үгүй</string>
+    <string name="settings">Тохиргоо</string>
+    <string name="message_to">Зурвас илгээх:</string>
+    <string name="add_contacts">Харилцагч нэмэх</string>
+    <string name="no_contacts">Та харилцагчдаа сонгоогүй байна</string>
+    <string name="send_location">Миний сүүлчийн байршлыг илгээнэ үү</string>
+    <string name="delivered">SMS хүргэсэн</string>
+    <string name="not_delivered">SMS хүргэж чадсангүй</string>
+    <string name="securitly_settings">Securitly тохиргоо</string>
+    <string name="ask_percentaje">Батерейны цэнэг дууссан үед яаралтай тусламжийн мессеж илгээнэ үү</string>
+    <string name="reset">Өгөгдмөл өгөгдлийг дахин тохируулах</string>
+    <string name="warning">Анхааруулга</string>
+    <string name="sure_delete">Та өгөгдмөл өгөгдлийг шинэчлэхдээ итгэлтэй байна уу?</string>
+    <string name="no_lower">Батерейны доод хэмжээ 2% байна</string>
+    <string name="no_upper">Батерейны хамгийн их хувь нь 100%</string>
+    <string name="no_valid_data">Та дугаараа танилцуулна уу</string>
+    <string name="about">тухай</string>
+    <string name="how_to">Securitly хэрхэн ашиглах вэ</string>
+    <string name="name">Нэр:</string>
+    <string name="phone">Утасны дугаар:</string>
+    <string name="name_hint">Дэвид Мартинес</string>
+    <string name="done">Дууслаа</string>
+    <string name="message_saved">Мессежийг зөв хадгалсан</string>
+    <string name="cancel">Цуцлах</string>
+    <string name="delete_contact">Та энэ харилцагчийг харилцагчдын жагсаалтаасаа устгахыг хүсэж байна уу?</string>
+    <string name="delete">Харилцагчийг устгах</string>
+    <string name="fill_name">"Нэр" талбарыг бөглөнө үү</string>
+    <string name="fill_phone">"Утасны дугаар" талбарыг бөглөнө үү</string>
+    <string name="instructions_1">1. Securitly таны байршлыг байнга мэдэж байх ёстой. Үүнийг хийхийн тулд төхөөрөмжийн тохиргоо -> програм -> Securitly -> Зөвшөөрөл рүү очоод байршлын зөвшөөрлийг "Үргэлж зөвшөөрөх" болгож өөрчилнө үү.</string>
+    <string name="instructions_2">2. Securitly-г хүчээр хааж болохгүй. Үгүй бол таны яаралтай тусламжийн мессежийг харилцагчид руу илгээхгүй.</string>
+    <string name="instructions_3">3. Таны төхөөрөмж мессеж илгээхээс өмнө унтарч болзошгүй тул бид танд яаралтай тусламжийн мессеж илгээх зайны түвшинг 1 эсвэл 2% болгон тохируулахыг зөвлөдөггүй.</string>
+    <string name="about_us">Энэхүү програмыг Мексикийн Лагуна хотын Технологийн дээд сургуулийн 5 оюутан хийсэн. Энэхүү төсөл нь бид бодит ажил хэрэг болгохоор зорьсон санаагаар эхэлсэн бөгөөд зөвлөгч инженер Жерардотой хамтран хэрэгжүүлэх боломжтой болгосон. Энэхүү програмын тусламжтайгаар бид дэлхийн өнөөгийн байдалд бага ч гэсэн хувь нэмэр оруулна гэж найдаж байна.</string>
+    <string name="location_example">Миний төхөөрөмжийн хамгийн сүүлийн байршил:\nөргөрөг:\n40.776570\nуртраг: -73.969979\nCentral Park Баруун түүхэн дүүрэг\nНью-Йорк, 10024, EE. У.У.</string>
+    <string name="permission_neccesary">"SMS илгээх" зөвшөөрөл олгоогүй тул Securitly ажиллах боломжгүй</string>
+    <string name="location_permission_neccesary">"Байршил"-ын зөвшөөрөл олгоогүй тул Securitly ажиллах боломжгүй. Securitly таны байршлыг мэдэх шаардлагатай бөгөөд ингэснээр таны сонгосон харилцагчид таны хамгийн сүүлд мэдэгдэж буй байршлыг илгээх боломжтой</string>
+    <string name="last_location">Миний сүүлчийн байршил:</string>
+    <string name="error_getting_location">Энэ төхөөрөмжийн задлан шинжилсэн байршлыг авахад алдаа гарлаа</string>
+    <string name="dont_show">Securitly эхлэх үед "шаардлагатай байршил" цонхыг бүү харуул</string>
+
+</resources>

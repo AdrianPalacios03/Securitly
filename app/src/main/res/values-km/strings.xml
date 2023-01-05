@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Securitly</string>
+    <string name="morning">អរុណ\u200bសួស្តី</string>
+    <string name="afternoon">អរុណសួស្តី</string>
+    <string name="evening">រាត្រីសួស្តី</string>
+    <string name="status">Securitly គឺ៖</string>
+    <string name="active">សកម្ម</string>
+    <string name="not_active">មិនសកម្ម</string>
+    <string name="location_permission">ការអនុញ្ញាតទីតាំងត្រូវតែបើក</string>
+    <string name="location_must">អ្នកត្រូវតែទទួលយកការអនុញ្ញាតទីតាំងសម្រាប់ Securitly ដើម្បីដំណើរការ</string>
+    <string name="message">សារ\u200bបន្ទាន់៖</string>
+    <string name="message_placeholder">សួស្តី ខ្ញុំជាអេម៉ា ថ្មរបស់ខ្ញុំបានស្លាប់។</string>
+    <string name="change_message">ផ្លាស់ប្តូរសារ</string>
+    <string name="location_alert_title">Securitly ត្រូវការដឹងពីទីតាំងរបស់អ្នកគ្រប់ពេល</string>
+    <string name="location_alert_message">តើអ្នកចង់បើកទីតាំងរបស់អ្នកទេ?\nចូលទៅកាន់ការកំណត់ -> កម្មវិធី -> Securitly -> អនុញ្ញាតទីតាំងជានិច្ច។\n\nបន្ទាប់មកចាប់ផ្តើម Securitly ឡើងវិញ</string>
+    <string name="yes">បាទ</string>
+    <string name="no">ទេ</string>
+    <string name="settings">ការកំណត់</string>
+    <string name="message_to">ផ្ញើសារទៅកាន់៖</string>
+    <string name="add_contacts">បន្ថែមទំនាក់ទំនង</string>
+    <string name="no_contacts">អ្នកមិនបានជ្រើសរើសទំនាក់ទំនងរបស់អ្នកទេ។</string>
+    <string name="send_location">ផ្ញើទីតាំងចុងក្រោយរបស់ខ្ញុំ</string>
+    <string name="delivered">ផ្ញើសារ SMS</string>
+    <string name="not_delivered">SMS បានបរាជ័យក្នុងការចែកចាយ</string>
+    <string name="securitly_settings">ការកំណត់ Securitly</string>
+    <string name="ask_percentaje">ផ្ញើសារបន្ទាន់នៅពេលកម្រិតថ្ម</string>
+    <string name="reset">កំណត់ទិន្នន័យលំនាំដើមឡើងវិញ</string>
+    <string name="warning">ការព្រមាន</string>
+    <string name="sure_delete">តើអ្នកប្រាកដថាចង់កំណត់ទិន្នន័យលំនាំដើមឡើងវិញទេ?</string>
+    <string name="no_lower">ភាគរយថ្មអប្បបរមាគឺ 2%</string>
+    <string name="no_upper">ភាគរយថ្មអតិបរមាគឺ 100%</string>
+    <string name="no_valid_data">សូមណែនាំលេខមួយ។</string>
+    <string name="about">អំពី</string>
+    <string name="how_to">របៀបប្រើ Securitly</string>
+    <string name="name">ឈ្មោះ៖</string>
+    <string name="phone">លេខទូរសព្ទ:</string>
+    <string name="name_hint">លោក David Martínez</string>
+    <string name="done">រួចរាល់</string>
+    <string name="message_saved">សារត្រូវបានរក្សាទុកយ៉ាងត្រឹមត្រូវ។</string>
+    <string name="cancel">បោះបង់</string>
+    <string name="delete_contact">តើអ្នកចង់លុបទំនាក់ទំនងនេះចេញពីបញ្ជីទំនាក់ទំនងរបស់អ្នកទេ?</string>
+    <string name="delete">លុបទំនាក់ទំនង</string>
+    <string name="fill_name">សូមបំពេញវាល "ឈ្មោះ"</string>
+    <string name="fill_phone">សូមបំពេញប្រអប់ "លេខទូរស័ព្ទ"</string>
+    <string name="instructions_1">1. Securitly ត្រូវការដឹងពីទីតាំងរបស់អ្នកគ្រប់ពេលវេលា។ ដើម្បីធ្វើដូច្នេះ សូមចូលទៅកាន់ការកំណត់ឧបករណ៍របស់អ្នក -> កម្មវិធី -> Securitly -> ការអនុញ្ញាត ហើយប្តូរការអនុញ្ញាតទីតាំងទៅ "អនុញ្ញាតគ្រប់ពេលវេលា"។</string>
+    <string name="instructions_2">2. កុំបង្ខំឱ្យបិទ Securitly ។ បើមិនដូច្នោះទេ សារសង្គ្រោះបន្ទាន់របស់អ្នកនឹងមិនត្រូវបានផ្ញើទៅកាន់ទំនាក់ទំនងរបស់អ្នកទេ។</string>
+    <string name="instructions_3">3. យើងមិនណែនាំឱ្យអ្នកកំណត់កម្រិតថ្មដែលអ្នកនឹងផ្ញើសារបន្ទាន់របស់អ្នកដល់ 1 ឬ 2% ព្រោះឧបករណ៍របស់អ្នកអាចបិទមុនពេលផ្ញើសារ។</string>
+    <string name="about_us">កម្មវិធី\u200bនេះ\u200bត្រូវ\u200bបាន\u200bបង្កើត\u200bឡើង\u200bដោយ\u200bនិស្សិត 5 នាក់\u200bមក\u200bពី\u200bវិទ្យាស្ថាន\u200bបច្ចេកវិទ្យា Laguna ប្រទេស\u200bម៉ិកស៊ិក។ គម្រោងនេះបានចាប់ផ្តើមជាគំនិតមួយដែលយើងកំណត់ឱ្យក្លាយជាការពិត ហើយរួមគ្នាជាមួយអ្នកណែនាំរបស់យើង វិស្វករ Gerardo យើងបានធ្វើឱ្យវាអាចទៅរួច។ ជាមួយនឹងកម្មវិធីនេះ យើងសង្ឃឹមថានឹងរួមចំណែកបន្តិចបន្តួចជាមួយស្ថានភាពបច្ចុប្បន្ននៅក្នុងពិភពលោក។</string>
+    <string name="location_example">ទីតាំងចុងក្រោយរបស់ឧបករណ៍របស់ខ្ញុំគឺ៖\nរយៈទទឹង៖\n40.776570\nរយៈបណ្តោយ៖ -៧៣.៩៦៩៩៧៩\nCentral Park West ស្រុកប្រវត្តិសាស្ត្រ\nញូវយ៉ក, 10024, EE ។ យូយូ។</string>
+    <string name="permission_neccesary">Securitly មិន\u200bអាច\u200bដំណើរការ\u200bបាន\u200bទេ\u200bព្រោះ\u200bមិន\u200bមាន\u200bការ\u200bអនុញ្ញាត "ផ្ញើ\u200bសារ SMS"</string>
+    <string name="location_permission_neccesary">Securitly មិន\u200bអាច\u200bដំណើរការ\u200bបាន\u200bទេ\u200bព្រោះ\u200bការ\u200bអនុញ្ញាត "ទីតាំង\u200bជានិច្ច" មិន\u200bត្រូវ\u200bបាន\u200bផ្តល់\u200bឱ្យ។ Securitly ត្រូវការដឹងពីទីតាំងរបស់អ្នក ដូច្នេះវាអាចផ្ញើទីតាំងដែលគេស្គាល់ចុងក្រោយរបស់អ្នកទៅកាន់ទំនាក់ទំនងដែលបានជ្រើសរើសរបស់អ្នក។</string>
+    <string name="last_location">ទីតាំងចុងក្រោយរបស់ខ្ញុំគឺ៖</string>
+    <string name="error_getting_location">មាន\u200bបញ្ហា\u200bក្នុង\u200bការ\u200bទទួល\u200bបាន\u200bទីតាំង\u200bញែក\u200bឧបករណ៍\u200bនេះ។</string>
+    <string name="dont_show">កុំបង្ហាញ "ទីតាំងដែលត្រូវការ" លេចឡើងនៅពេល Securitly ចាប់ផ្តើម</string>
+
+</resources>

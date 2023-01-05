@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/contact_background"
+    android:layout_marginBottom="10dp"
+    android:paddingStart="20dp"
+    android:paddingEnd="20dp"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/nameTV"
+        android:textAlignment="viewStart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textColor="#3E3E3E"
+        android:layout_marginBottom="7dp"
+        android:text="David"/>
+    <TextView
+        android:id="@+id/phoneTV"
+        android:textAlignment="viewStart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#3E3E3E"
+        android:text="871 127 1287"
+        android:textSize="16sp"/>
+
+</LinearLayout>

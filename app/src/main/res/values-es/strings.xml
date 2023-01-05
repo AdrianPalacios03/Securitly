@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Securitly</string>
+    <string name="morning">Buenos días</string>
+    <string name="afternoon">Buena tarde</string>
+    <string name="evening">Buenas noches</string>
+    <string name="status">Securitly está:</string>
+    <string name="active">Activo</string>
+    <string name="not_active">No activo</string>
+    <string name="location_permission">El permiso de ubicación debe estar habilitado</string>
+    <string name="location_must">Debe aceptar el permiso de ubicación para que Securitly funcione</string>
+    <string name="message">Mensaje de emergencia:</string>
+    <string name="message_placeholder">Hola, soy Emma, \u200b\u200bmi batería murió.</string>
+    <string name="change_message">Cambiar mensaje</string>
+    <string name="location_alert_title">Securitly necesita saber tu ubicación todo el tiempo</string>
+    <string name="location_alert_message">¿Quieres habilitar tu ubicación?\nVaya a Configuración -> Aplicaciones -> Securitly -> Permitir siempre la ubicación.\n\nLuego reinicia Securitly</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="settings">Ajustes</string>
+    <string name="message_to">Enviar mensaje a:</string>
+    <string name="add_contacts">Añadir contactos</string>
+    <string name="no_contacts">No has seleccionado tus contactos</string>
+    <string name="send_location">Enviar mi última ubicación</string>
+    <string name="delivered">SMS entregados</string>
+    <string name="not_delivered">SMS falló en la entrega</string>
+    <string name="securitly_settings">Configuración de Securitly</string>
+    <string name="ask_percentaje">Envía un mensaje de emergencia cuando el nivel de la batería es</string>
+    <string name="reset">Restablecer datos predeterminados</string>
+    <string name="warning">Advertencia</string>
+    <string name="sure_delete">¿Está seguro de que desea restablecer los datos predeterminados?</string>
+    <string name="no_lower">El porcentaje mínimo de batería es 2%</string>
+    <string name="no_upper">El porcentaje máximo de batería es 100%</string>
+    <string name="no_valid_data">Por favor introduce un número</string>
+    <string name="about">Sobre</string>
+    <string name="how_to">Cómo usar Securitly</string>
+    <string name="name">Nombre:</string>
+    <string name="phone">Número de teléfono:</string>
+    <string name="name_hint">David Martínez</string>
+    <string name="done">Hecho</string>
+    <string name="message_saved">Mensaje guardado correctamente</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete_contact">¿Desea eliminar este contacto de su lista de contactos?</string>
+    <string name="delete">Borrar contacto</string>
+    <string name="fill_name">Por favor complete el campo "Nombre"</string>
+    <string name="fill_phone">Por favor, rellene el campo "Número de teléfono"</string>
+    <string name="instructions_1">1. Securitly necesita saber tu ubicación todo el tiempo. Para hacer eso, vaya a la configuración de su dispositivo -> aplicaciones -> Securitly -> Permisos y cambie el permiso de ubicación a "Permitir todo el tiempo".</string>
+    <string name="instructions_2">2. No fuerce el cierre de Securitly. De lo contrario, su mensaje de emergencia no se enviará a sus contactos.</string>
+    <string name="instructions_3">3. No recomendamos que establezca el nivel de batería en el que enviará su mensaje de emergencia al 1 o 2%, ya que su dispositivo puede apagarse antes de enviar el mensaje.</string>
+    <string name="about_us">Esta aplicación fue realizada por 5 estudiantes del Instituto Tecnológico de Laguna, México. Este proyecto nació como una idea que nos propusimos hacer realidad, y junto a nuestro mentor, el ingeniero Gerardo, lo hicimos posible. Con esta app esperamos contribuir un poco con la situación actual del mundo.</string>
+    <string name="location_example">La última ubicación de mi dispositivo fue:\nlatitud:\n40.776570\nlongitud: -73.969979\nDistrito histórico oeste de Central Park\nNueva York, 10024, EE. UU.</string>
+    <string name="permission_neccesary">Securitly no puede funcionar porque no se otorga el permiso "Enviar SMS"</string>
+    <string name="location_permission_neccesary">Securitly no puede funcionar porque no se otorga el permiso "Siempre ubicación". Securitly necesita saber tu ubicación para poder enviar tu última ubicación conocida a tus contactos seleccionados</string>
+    <string name="last_location">Mi última ubicación fue:</string>
+    <string name="error_getting_location">Se produjo un error al obtener la ubicación analizada de este dispositivo.</string>
+    <string name="dont_show">No mostrar la ventana emergente de "ubicación requerida" cuando se inicia Securitly</string>
+
+</resources>
