@@ -15,8 +15,7 @@
 - **Configuración Personalizable**: Ajusta el nivel de batería crítico según tus necesidades.
 - **Interfaz Intuitiva**: Diseñada para ser fácil de usar y configurar.
 
-![Screenshot de la configuración de emergencia](./public/securitly.webp)  
-*[user: imagen que muestre la configuración de mensajes de emergencia]*
+![Screenshot de la configuración de emergencia](https://adrian-palacios.netlify.app/projects/securitly.webp)  
 
 ---
 
