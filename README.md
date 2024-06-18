@@ -1,61 +1,60 @@
 # Securitly
 
-![Securitly Logo](https://play-lh.googleusercontent.com/VGKWrvEVcqw864WlSE5YXvXQvCLOw1JsvMetG6RpaMf0G3JSMO1qb3-KtOzHzQBD_Gc=w416-h235-rw)  
+![Securitly Logo](https://play-lh.googleusercontent.com/VGKWrvEVcqw864WlSE5YXvXQvCLOw1JsvMetG6RpaMf0G3JSMO1qb3-KtOzHzQBD_Gc=w416-h235-rw)
 
-### ¡Bienvenido a **Securitly**!
+### Welcome to **Securitly**!
 
-**Securitly** es una aplicación esencial para tu seguridad personal. Envía automáticamente mensajes de emergencia a contactos seleccionados cuando la batería de tu dispositivo alcanza un nivel crítico. Nunca te quedarás sin comunicarte en situaciones de emergencia.
-
----
-
-## Características
-
-- **Mensajes de Emergencia Automáticos**: Envía mensajes de emergencia cuando la batería está baja.
-- **Selección de Contactos**: Configura fácilmente los contactos que recibirán los mensajes de emergencia.
-- **Configuración Personalizable**: Ajusta el nivel de batería crítico según tus necesidades.
-- **Interfaz Intuitiva**: Diseñada para ser fácil de usar y configurar.
-
-![Screenshot de la configuración de emergencia](https://adrian-palacios.netlify.app/projects/securitly.webp)  
+**Securitly** is an essential application for your personal security. Automatically send emergency messages to selected contacts when your device's battery reaches a critical level. You will never be left without communicating in emergency situations.
 
 ---
 
-## Instalación
+## Features
 
-1. **Clona el repositorio**:
-   ```sh
-   git clone https://github.com/tuusuario/Securitly.git
-    ```
-2. **Navega al directorio del proyecto:**
-    ```sh
-    cd Securitly
-    ```
-3. Abre el proyecto en Android Studio.
-4. **Compila y ejecuta la aplicación**:
-    ```sh
-    Haz clic en el botón de "Run" en Android Studio.
-    ```
+- **Automatic Emergency Messages**: Send emergency messages when the battery is low.
+- **Contact Selection**: Easily configure the contacts that will receive emergency messages.
+- **Customizable Settings**: Adjust the critical battery level according to your needs.
+- **Intuitive Interface**: Designed to be easy to use and configure.
+
+![Screenshot of emergency configuration](https://adrian-palacios.netlify.app/projects/securitly.webp)
 
 ---
 
-## Uso
+## Usage
 
-1. Configuración de Contactos
-2. Configuración de Mensajes de Emergencia
-3. Configuración de Batería Crítica
+1. **Clone the repository**:
+ ```sh
+ git clone https://github.com/tuusuario/Securitly.git
+ ```
+2. **Navigate to the project directory:**
+ ```sh
+ CD Securitly
+ ```
+3. Open the project in Android Studio.
+4. **Compile and run the application**:
+ ```sh
+ Click the "Run" button in Android Studio.
+ ```
 
 ---
 
-## Tecnologías
+## Use
 
-- **Lenguaje**: Kotlin
+1. Contacts Settings
+2. Emergency Message Configuration
+3. Critical Battery Settings
+
+---
+
+## Technologies
+
+- **Language**: Kotlin
 - **IDE**: Android Studio
 
 ---
 
-## Contribución
+## Contribution
 
-1. Realiza un **fork** del proyecto
-2. Crea una **rama** para tu contribución
-3. Realiza un **pull request** para que tu contribución sea revisada
-4. ¡Espera a que tu contribución sea aceptada!
-
+1. Make a **fork** of the project
+2. Create a **branch** for your contribution
+3. Make a **pull request** to have your contribution reviewed
+4. Wait for your contribution to be accepted!
